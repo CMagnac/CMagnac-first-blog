@@ -5,7 +5,7 @@ date:   2022-10-09 10:00:09 +0200
 categories: HL7-fundamentals
 permalink: /:categories/
 ---
-![image](/assets/images/intro-hl7.jpg)
+![image](/assets/images/intro-hl7.png)
 *@Creativeart - Freepik.com*
 
 The health care sytems face several difficulties in how to exchange medical and financial informations.

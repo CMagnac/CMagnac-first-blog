@@ -5,7 +5,7 @@ date:   2022-10-16 10:00:09 +0200
 categories: simple-code
 permalink: /:categories/
 ---
-![image](/assets/images/chinese-wall.jpg)
+![image](/assets/images/chinese-wall.png)
 *@rawpixel - Freepik.com*
 
 I have always been filled with Chinese culture.
@@ -29,7 +29,7 @@ Our target will be a html table from a french website which refers to the list o
 More informations on [HSK](https://en.wikipedia.org/wiki/Hanyu_Shuiping_Kaoshi)
 
 
-## First Step : create a virtual environment.
+## First step : create a virtual environment.
 
 Learning how to create and work with virtual environment is a good habit to take. 
 
