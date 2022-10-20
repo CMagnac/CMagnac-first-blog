@@ -6,3 +6,5 @@ url: "https://CMagnac.github.io"
 theme: minima
 plugins:
   - jekyll-feed
+styles:
+  - /assets/main.css
