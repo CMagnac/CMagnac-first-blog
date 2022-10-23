@@ -4,10 +4,9 @@ title: Introduction to HL7
 date:   2022-10-09 10:00:09 +0200
 categories: HL7-fundamentals
 permalink: /:categories/
+image: intro-hl7.png
+caption: Creativeart - Freepik.com
 ---
-![image](/assets/images/intro-hl7.png)
-*@Creativeart - Freepik.com*
-
 The health care sytems face several difficulties in how to exchange medical and financial informations.
 Implementing standards for communication is one of the solution.
 HL7 standards has been builted for this purpose.
@@ -63,5 +62,3 @@ A healthcare interoperability standard is generally developed in five stages :
 3. Create the standard specification.
 4. Adoption by the rest of the industry.
 5. Certification for some cases.
-
-

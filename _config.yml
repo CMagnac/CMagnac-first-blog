@@ -2,7 +2,7 @@ title: The Wandering Pharmacist
 email: pharmadev@proton.me
 description: My personal website
 url: "https://CMagnac.github.io"
-
+image_path: /assets/images
 theme: minima
 plugins:
   - jekyll-feed

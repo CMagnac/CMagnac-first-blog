@@ -4,10 +4,9 @@ title: Scrape and Load
 date:   2022-10-16 10:00:09 +0200
 categories: simple-code
 permalink: /:categories/
+image: chinese-wall.png
+caption: Rawpixel - Freepik.com 
 ---
-![image](/assets/images/chinese-wall.png)
-*@rawpixel - Freepik.com*
-
 I have always been filled with Chinese culture.
 
 Learning chinese language was a huge challenge because you need to *reverse* your traditional way of constructing ideas. Indeed, if you desire to grasp any foreigners languages you will have to gymnastics your brain.
@@ -99,5 +98,3 @@ if __name__ == "__main__":
     url = "https://www.chineseinstitute.fr/formation-chinois/particuliers/cours-de-chinois-adultes/preparation-hsk-bct/hsk-test-de-niveau-de-chinois/hsk-niveau-1/hsk-1-vocabulaire-a-connaitre"
     load_data(url)
 ```
-
-Take care.
