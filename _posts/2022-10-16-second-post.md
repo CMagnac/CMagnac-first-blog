@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: Scrape and Load
 date:   2022-10-16 10:00:09 +0200
 categories: simple-code

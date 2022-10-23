@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: Introduction to HL7
 date:   2022-10-09 10:00:09 +0200
 categories: HL7-fundamentals
