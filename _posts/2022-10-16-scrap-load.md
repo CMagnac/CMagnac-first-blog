@@ -48,10 +48,12 @@ Setup the environment :
 ## Second step : install the libraries
 
 Requests : *Requests is a simple, yet elegant, HTTP library.*
-More informations on [requests](https://pypi.org/project/requests/)
+
+More informations on [requests](https://pypi.org/project/requests/).
 
 Beautifulsoup4 : *Beautiful Soup is a library that makes it easy to scrape information from web pages.*
-More informations on [beautifulsoup](https://pypi.org/project/beautifulsoup4/)
+
+More informations on [beautifulsoup](https://pypi.org/project/beautifulsoup4/).
 
 A good practice is to create a requirements.txt which contains the packages.
 
