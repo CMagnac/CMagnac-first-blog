@@ -4,14 +4,14 @@ title: Scrape and Load II
 date:   2022-11-06 10:00:09 +0200
 categories: Python
 permalink: /:categories/:title
-caption: <a href="https://fr.freepik.com/vecteurs-libre/illustration-concept-abstrait-traducteur-numerique_12291007.htm#query=dictionary&position=8&from_view=search&track=sph">Image de vectorjuice</a> sur Freepik
+caption: <a href="https://fr.freepik.com/vecteurs-libre/illustration-concept-abstrait-traducteur-numerique_12291007.htm#query=dictionary&position=8&from_view=search&track=sph">Image by vectorjuice</a> on Freepik
 image: scrape2.jpg
 ---
 This post is about how to make a scraping script to get for another time two json dictionary.
 
 <br>
 
-## Configuration file
+## Configuration
 
 Having more control on our script and for a best understanding of it, these are the purpose of a configuration file.
 
@@ -32,7 +32,7 @@ So first, let's create a config.json file and add pairs of keys and values as fo
 
 <br>
 
-## Dive into the code
+## Code and run !
 
 We will need the same pypi librairies I have used in my previous post about scrapîng.
 You can refer to it on how to install and have more informations by clicking on this [link]({% link _posts/2022-10-16-scrap-load-1.md %}).
