@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Back to Basics
-date:   2022-11-08 10:00:09 +0200
+date:   2022-11-12 10:00:09 +0200
 categories: Python
 permalink: /:categories/:title
 caption: Image by jeekang on GitHub 
