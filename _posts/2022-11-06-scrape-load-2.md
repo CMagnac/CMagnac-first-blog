@@ -7,13 +7,13 @@ permalink: /:categories/:title
 caption: <a href="https://fr.freepik.com/vecteurs-libre/illustration-concept-abstrait-traducteur-numerique_12291007.htm#query=dictionary&position=8&from_view=search&track=sph">Image by vectorjuice</a> on Freepik
 image: scrape2.jpg
 ---
-This post is about how to make a scraping script to get for another time two json dictionary.
+Another beautiful python script to scrap informations which will be store into two json dictionaries.
 
 <br>
 
 ## Configuration
 
-Having more control on our script and for a best understanding of it, these are the purpose of a configuration file.
+Having more control on our script and for a better understanding of it, these are the purpose of my configuration file.
 
 Python provides a built in module, json. So usefull to make tiny project and improve our skills.
 
@@ -39,7 +39,7 @@ You can refer to it on how to install and have more informations by clicking on 
 
 I have also use the time built in module to get the script processing time.
 
-Don't forget create the script and the json file in the same folder.
+Don't forget to create the script and the json file in the same folder.
 
 <br>
 
@@ -130,3 +130,7 @@ if __name__ == "__main__":
     
     print(f"EXECUTION TIME : {end-start}")
 ```
+
+<br>
+
+Is it working ? 😎
