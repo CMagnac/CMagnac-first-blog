@@ -184,13 +184,15 @@ table td { border: 1px solid #121212; }
 /** Syntax highlighting styles */
 .highlight { background: #fff; }
 
-.highlighter-rouge .highlight { background: #eef; }
+.highlighter-rouge .highlight { background: #fff; }
 
 .highlight .c { color: #998; font-style: italic; }
 
 .highlight .err { color: #a61717; background-color: #e3d2d2; }
 
-.highlight .k { font-weight: bold; }
+.highlight .k { color: #073EFF; font-weight: bold; }
+
+.highlight .n {color:#042096; }
 
 .highlight .o { font-weight: bold; }
 
@@ -198,7 +200,7 @@ table td { border: 1px solid #121212; }
 
 .highlight .cp { color: #999; font-weight: bold; }
 
-.highlight .c1 { color: #998; font-style: italic; }
+.highlight .c1 { color: #d08b63; font-style: italic; }
 
 .highlight .cs { color: #999; font-weight: bold; font-style: italic; }
 
@@ -230,6 +232,8 @@ table td { border: 1px solid #121212; }
 
 .highlight .kd { font-weight: bold; }
 
+.highlight .kn {color: #ae66a8;}
+
 .highlight .kp { font-weight: bold; }
 
 .highlight .kr { font-weight: bold; }
@@ -254,7 +258,7 @@ table td { border: 1px solid #121212; }
 
 .highlight .nf { color: #900; font-weight: bold; }
 
-.highlight .nn { color: #555; }
+.highlight .nn { color: #39906d; }
 
 .highlight .nt { color: #000080; }
 
@@ -290,11 +294,11 @@ table td { border: 1px solid #121212; }
 
 .highlight .sr { color: #009926; }
 
-.highlight .s1 { color: #d14; }
+.highlight .s1 { color: #d48456; }
 
 .highlight .ss { color: #990073; }
 
-.highlight .bp { color: #999; }
+.highlight .bp { color: #1F5BFF; }
 
 .highlight .vc { color: #008080; }
 
