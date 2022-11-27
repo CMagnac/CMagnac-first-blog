@@ -231,6 +231,6 @@ def main(board):
 
 ## Conclusion
 
-You can find all the code on my GitHub [CMagnac](https://github.com/CMagnac).
+You can find all the code on my GitHub [CMagnac](https://github.com/CMagnac/TicTacToe).
 
 Enjoy 🤙.
