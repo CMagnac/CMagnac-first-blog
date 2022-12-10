@@ -9,8 +9,6 @@ image: scrape2.jpg
 ---
 Another beautiful python script to scrap informations which will be store into two json dictionaries.
 
-<br>
-
 ## Configuration
 
 Having more control on our script and for a better understanding of it, these are the purpose of my configuration file.
@@ -18,8 +16,6 @@ Having more control on our script and for a better understanding of it, these ar
 Python provides a built in module, json. So usefull to make tiny project and improve our skills.
 
 So first, let's create a config.json file and add pairs of keys and values as follow.
-
-<br>
 
 ```json
 {
@@ -30,9 +26,7 @@ So first, let's create a config.json file and add pairs of keys and values as fo
 }
 ```
 
-<br>
-
-## Code and run !
+## The code
 
 We will need the same pypi librairies I have used in my previous post about scrapîng.
 You can refer to it on how to install and have more informations by clicking on this [link]({% link _posts/2022-10-16-scrap-load-1.md %}).
@@ -40,8 +34,6 @@ You can refer to it on how to install and have more informations by clicking on 
 I have also use the time built in module to get the script processing time.
 
 Don't forget to create the script and the json file in the same folder.
-
-<br>
 
 ```python
 import json
@@ -62,28 +54,28 @@ def extract_data(url=cfg['url']):
 def transform_data():
     """parse the html text
     """
-    soup = bs(extract_data(),"html.parser")
+    soup = bs(extract_data(), "html.parser")
     return soup
 
 def new_chn_char(soup=transform_data()) -> list:
     """extract the modern sinographs
     return a list
     """
-    new_char = soup.find_all(cfg['html_tag'],{cfg['attribute']:cfg['value'][0]})
+    new_char = soup.find_all(cfg['html_tag'], {cfg['attribute']:cfg['value'][0]})
     return [sino.get_text() for sino in new_char ]
 
 def old_chn_char(soup=transform_data()) -> list:
     """extract the old sinographs
     return a list
     """
-    old_char = soup.find_all(cfg['html_tag'],{cfg['attribute']:cfg['value'][1]})
+    old_char = soup.find_all(cfg['html_tag'], {cfg['attribute']:cfg['value'][1]})
     return [sino.get_text() for sino in old_char]
 
 def pinyin(soup=transform_data()) -> list:
     """extract the pinyin
     return a list
     """
-    pinyins = [soup.find_all(cfg['html_tag'],{cfg['attribute']:cfg['value'][2]})]
+    pinyins = [soup.find_all(cfg['html_tag'], {cfg['attribute']:cfg['value'][2]})]
     pinyins = [p for p in pinyins[0]]
     return  [p.get_text() for p in pinyins]
 
@@ -91,7 +83,7 @@ def french_definition(soup=transform_data()) -> list:
     """extract the french definition
     return a list
     """
-    fr_def = [soup.find_all(cfg['html_tag'],{cfg['attribute']:cfg['value'][3]})]
+    fr_def = [soup.find_all(cfg['html_tag'], {cfg['attribute']:cfg['value'][3]})]
     fr_def = [w for w in fr_def[0]]
     return [words.get_text() for words in fr_def]
 
@@ -102,7 +94,7 @@ def old_chn_dictionary() -> dict:
     old = old_chn_char()
     pin = pinyin()
     frdef = french_definition()
-    return dict(zip(old,zip(pin,frdef)))
+    return dict(zip(old,zip(pin, frdef)))
 
 def new_chn_dictionary() -> dict:
     """zip the modern sinographs with their values
@@ -111,7 +103,7 @@ def new_chn_dictionary() -> dict:
     new = new_chn_char()
     pin = pinyin()
     frdef = french_definition()
-    return dict(zip(new,zip(pin,frdef)))
+    return dict(zip(new,zip(pin, frdef)))
 
 if __name__ == "__main__":
 
@@ -120,17 +112,15 @@ if __name__ == "__main__":
     d1 = old_chn_dictionary()
     d2= new_chn_dictionary()
     
-    with open("old-chinese-dictionary.json","w") as f:
+    with open("old-chinese-dictionary.json", "w") as f:
         json.dump(d1,f)
     
-    with open("new-chinese-dictionary.json","w") as f:
+    with open("new-chinese-dictionary.json", "w") as f:
         json.dump(d2,f)
     
     end = time.time()
     
     print(f"EXECUTION TIME : {end-start}")
 ```
-
-<br>
 
 Is it working ? 😎

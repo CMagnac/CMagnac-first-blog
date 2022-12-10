@@ -19,7 +19,7 @@ A literal is data whose value is determined by the literal itself. Different kin
 
 The built in function isinstance allows you to determine the type of an object.
 
-*isinstance(object, classinfo)*
+*isinstance* (object, classinfo)
 
 Return True if the object argument is an instance of the classinfo argument, or of a (direct, indirect, or virtual) subclass thereof.
 
@@ -70,7 +70,7 @@ true
 *Textual data in Python is handled with str objects, or strings. Strings are immutable sequences of Unicode code points.*
 [python.org](https://docs.python.org/3/library/stdtypes.html#textseq)
 
-Unpacking a string: 
+Unpacking a string:
 
 ```py
 >>> a, b, c = '789'
@@ -118,6 +118,7 @@ Next is a list behaviour which is important to understand.
 >>> l1 = [5]
 >>> l2 = l1
 ```
+
 Then, each functions apply to l2 will have an impact on l1.
 
 ```py
@@ -146,6 +147,7 @@ Otherwise, if you assign the slice of a list to another list you will copy the s
 Tuples are immutable sequences.
 
 How to initialize them ?
+
 ```py
 t1 = tuple()
 t2 = 1,
@@ -153,6 +155,7 @@ t3 = 1, 2.5
 ```
 
 Common characteristics with list:
+
 + If any of the slice's indices exceeds the permissible range, no exception is raised, the non-existent elements are not taken into consideration.
 + An attempt to access a non-existent tuple element raises the IndexError exception.
 + You can use in and not statement.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Back to Basics
+title: Back to Basics I
 date: 2022-11-12 10:00:09 +0200
 categories: Python
 permalink: /:categories/:title
@@ -14,8 +14,6 @@ Obviously, I have missed some steps during the process which really slowed me do
 The fact is, you need to come back, to iterate, to relearn or consolidate the news or old understanding in a desire of improvement.
 
 In this post, we talk about a bunch of python **fundamentals**.
-
-<br>
 
 ## Compiler & Interpreter
 
@@ -42,8 +40,6 @@ The interpretor read the file from left to right and up to bottom and raise an e
 The file which contains the code is named a source file.
 The source code is the high level language.
 
-<br>
-
 ## Coding styles
 
 These are the corner stones which make Python so awsome.
@@ -64,8 +60,6 @@ It relies on data fields that are treated as objects and manipulated only throug
 
 Tasks are treated as step-by-step iterations where common tasks are placed in functions that are called as needed.
 
-<br>
-
 ## REPL
 
 REPL is an interactive shell.
@@ -79,14 +73,12 @@ More informations [here](https://realpython.com/interacting-with-python/).
 
 Jupyter notebook is a REPL based system.
 
-<br>
-
 ## Dynamic
 
 Python is **dynamically typed** as the interpreter keeps track of all variables types.
 You cannot do anything with the type of data you're working with.
 
-One example : 
+One example:
 
 ```py
 print("a" + 1)
@@ -97,8 +89,6 @@ will return
 ```py
 TypeError: can only concatenate str (not "int") to str
 ```
-
-<br>
 
 ## High
 

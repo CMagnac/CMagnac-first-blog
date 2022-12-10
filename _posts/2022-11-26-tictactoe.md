@@ -14,8 +14,6 @@ Fortunally, I have worked on a challenge offer by the Python Institute on which 
 Challenge occurs at the end of the first part of the Python fundamentals.
 It consists in creating a tic-tac-toe game which you can run from the command line.
 
-<br>
-
 ## Drawing the board
 
 First, the initial **board** variable corresponds to :
@@ -23,8 +21,6 @@ First, the initial **board** variable corresponds to :
 ```py
 board = [[1,2,3],[4,"X",6],[7,8,9]]
 ```
-
-<br>
 
 Then, I struggle trying to not to write an awfull syntax for drawing the board.
 
@@ -43,8 +39,6 @@ def display_board(board) -> str:
     for _ in range(3):
         print("\n".join(board[_]))
 ```
-
-<br>
 
 ## Scanning the board
 
@@ -67,15 +61,11 @@ def dictionary_fields() -> dict:
     return d
 ```
 
-<br>
-
-Output expected : 
+Output expected:
 
 ```sh
 {'1': ('0', '0'), '2': ('0', '1'), '3': ('0', '2'), '4': ('1', '0'), 'X': ('1', '1'), '6': ('1', '2'), '7': ('2', '0'), '8': ('2', '1'), '9': ('2', '2')}
 ```
-
-<br>
 
 I kept the idea of using a dictionary.
 
@@ -101,23 +91,17 @@ def make_list_of_free_fields(board) -> list:
     return [brwrow1,brwrow2,brwrow3]
 ```
 
-<br>
-
-Output expected : 
+Output expected:
 
 ```sh
 [[(0, 0), (0, 1), (0, 2)], [(1, 0), None, (1, 2)], [(2, 0), (2, 1), (2, 2)]]
 ```
 
-<br>
-
 ## The moves
 
 The game start with the board full with digit from 1 to 9.
-The fifth box is marked with a cross. 
-So the first turn is for yours. 
-
-<br>
+The fifth box is marked with a cross.
+So the first turn is for yours.
 
 ### User moves
 
@@ -146,19 +130,15 @@ def enter_move(board) -> list:
         return enter_move(board)
 ```
 
-
-<br>
-
 ### Computer moves
 
 We are going to use the built-in random module.
 
 Make the import as usual.
+
 ```py
 from random import randint
 ```
-
-<br>
 
 I use the same logic as in the user move function, changing the update with a while loop.
 
@@ -180,8 +160,6 @@ def draw_move(board) -> list:
         else:
             start_bot = True
 ```
-
-<br>
 
 ## Win or loose
 
@@ -211,8 +189,6 @@ def victory_for(board, sign=["XXX","OOO"]) -> str:
         exit()
 ```
 
-<br>
-
 ## Makes all work
 
 Finally, I define the last main function.
@@ -227,10 +203,8 @@ def main(board):
         victory_for(board)
 ```
 
-<br>
-
 ## Conclusion
 
 You can find all the code on my GitHub [CMagnac](https://github.com/CMagnac/TicTacToe).
 
-Enjoy 🤙.
+Enjoy 🤙
