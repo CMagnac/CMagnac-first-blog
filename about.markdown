@@ -28,7 +28,7 @@ Along with my teammate, we faced lots of the common’s health professional prob
 
 ## Back to code
 
-My contract was terminated at the end of June 2022. I have passed a year with a few attempts to maintain my Python skills. 
+My contract was terminated at the end of June 2022. I have passed a year with a few attempts to maintain my Python skills.
 I can't stand to explore theses new paths of sharing and learning with you.
 
 Take Care.
