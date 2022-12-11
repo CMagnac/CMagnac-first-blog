@@ -12,9 +12,9 @@ As life goes on, I decided to live in South America and explored the tropical fo
 
 Back in France on December 2019, I restarted to learn computing environment on my own. Like in lots of fields, I'm much more a self-taught than a conventional learner.
 
-## The Black Swan year 
+## The Black Swan year
 
-During the following years, even if I made many mistakes in the learning process, I took the "unknown" opportunity to get a deeper understanding about how to use a computer. 
+During the following years, even if I made many mistakes in the learning process, I took the "unknown" opportunity to get a deeper understanding about how to use a computer.
 
 First lockdown came up with fear and despair, but you already knew about it. I kept calm and began to learn Python which became my favorite one. Indeed, learning alone is tough because you don't have any teacher, or mentor to give you direction on how bad you have done it.
 
