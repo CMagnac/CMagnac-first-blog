@@ -2,8 +2,7 @@
 layout: post
 title: Back to Basics II
 date: 2022-12-04 10:00:09 +0200
-categories: Python
-permalink: /:categories/:title
+categories: programming
 caption: Image by jeekang on GitHub 
 image: privateinvestocat.jpg
 ---
