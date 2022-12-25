@@ -1,29 +1,34 @@
 ---
 layout: post
-title: Scrape and load data with python I
+title: 1 Web-Scraping with Python
 date: 2022-10-16 10:00:09 +0200
 categories: programming
 image: scrape1.jpg
 caption: <a href="https://fr.freepik.com/vecteurs-libre/programmeur-travaillant-code-developpement-web-ingenieur-programmation-python-php-java-script-ordinateur_14723889.htm#query=python&position=9&from_view=search&track=sph">Image by svstudioart</a> on Freepik
 ---
+I have always been filled with Asian culture.
+Asia is a ...
 I have always been filled with Chinese culture, especially the language. A sinograph is built with different *key*.
 
 Firstly, If you wish to understand chinese way of thinking, you would need to learn almost 200 hundred keys. Then, understand how to draw them. Also, how they fit together.
 
-Otherwise, going back to the drawing board.  
+Going back to the drawing board.  
 
 One of the most difficult part of learning chinese language is to remember the correspondance between the characters and its pinyin signification.
 
 Pinyins are the phonetic transcription of chinese characters.
+One characters can be pronounced by four differents tones.
+You will need to practice a lot how to "sing" each sinograms and remember their tones.
+There are a lot of websites talking about pinyin, wikipedia is a good reference to have an overview of any concepts.
+Here is the link: [pinyin on wikipedia](https://en.wikipedia.org/wiki/Pinyin).
 
-More informations on pinyin [here](https://en.wikipedia.org/wiki/Pinyin).
-
-Testing your knowledge is an important part of the learning process.
-Being active is the path to sucess.
+Being active is the path to sucess, to achieve it you must constantly test your knowledge.
 
 As a python enthusiast, I was asking me this question :
 
-How can we make a simple dictionary to store our fresh chinese knowledge ?
+How can I improve my python skills for getting a useful tool to help me learning chinese ?
+
+## 1. Set up our environment
 
 I will use Python version 3.10.6 and two famous python libraries for webscraping : requests and beautifulsoup4.
 
@@ -33,7 +38,7 @@ HSK is the Chinese Proficiency Test.
 
 More informations on HSK [here](https://en.wikipedia.org/wiki/Hanyu_Shuiping_Kaoshi).
 
-## Create a virtual environment
+### Create a virtual environment
 
 Learning how to create and work with virtual environment is a good habit to take.
 
@@ -44,7 +49,7 @@ Setup the environment:
     $ virtualenv -p /usr/bin/python3 venv   # Create the environment, with the Python 3.x interpreter
     $ source venv/bin/activate              # Active the environment
 
-## Install the libraries
+### Install the libraries
 
 Requests : *Requests is a simple, yet elegant, HTTP library.*
 
@@ -67,7 +72,7 @@ Now install the packages:
 
 More informations on virtualenv [here](http://docs.python-guide.org/en/latest/dev/virtualenvs/).
 
-## Coding
+## 2. The code
 
 Create a main.py file and tape the following code.
 
@@ -105,7 +110,7 @@ if __name__ == "__main__":
     load_data(url)
 ```
 
-## Run the code
+### Run the code
 
 From the terminal and in your working folder, tape this.
 

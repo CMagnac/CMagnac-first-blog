@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Back to Basics I
+title: Python basics
 date: 2022-11-12 10:00:09 +0200
 categories: programming
 caption: Image by jeekang on GitHub 
@@ -14,7 +14,7 @@ The fact is, you need to come back, to iterate, to relearn or consolidate the ne
 
 In this post, we talk about a bunch of python **fundamentals**.
 
-## Compiler & Interpreter
+## 1. Compiler & Interpreter
 
 To make complex calculus, a computer need a language which will be implement by the programmer.
 
@@ -39,40 +39,43 @@ The interpretor read the file from left to right and up to bottom and raise an e
 The file which contains the code is named a source file.
 The source code is the high level language.
 
-## Coding styles
+## 2. Coding styles
 
 These are the corner stones which make Python so awsome.
 
-### The Functional
+### 2.1 The Functional
 
 Every statement is treated as a mathematical equation and any forms of state or mutable data are avoided.
 
-### The Imperative
+### 2.2 The Imperative
 
 This style is especially useful when manipulating data structures and produces elegant simple code.
 
-### The Object-Oriented
+### 2.3 The Object-Oriented
 
 It relies on data fields that are treated as objects and manipulated only through prescribed methods.
 
-### The Procedural
+### 2.4 The Procedural
 
 Tasks are treated as step-by-step iterations where common tasks are placed in functions that are called as needed.
 
-## REPL
+## 3. Read–eval–print loop
 
-REPL is an interactive shell.
+The Read–Eval–Print Loop (REPL) is a **language shell**.
 
-+ Reads the command you enter
-+ Evaluates and executes
-+ Prints the output
-+ Loops back and repeats the process
+It works by:
 
-More informations [here](https://realpython.com/interacting-with-python/).
++ Reading the command you enter.
++ Evaluating and executing your code.
++ Printing the output.
++ Looping back and repeating the process.
+
+Realpython is a mine of trustfully informations. Authors have made an article about how to interact with python.
+Here is the link: [realpython article](https://realpython.com/interacting-with-python/).
 
 Jupyter notebook is a REPL based system.
 
-## Dynamic
+## 4. Type system
 
 Python is **dynamically typed** as the interpreter keeps track of all variables types.
 You cannot do anything with the type of data you're working with.
@@ -89,7 +92,7 @@ will return
 TypeError: can only concatenate str (not "int") to str
 ```
 
-## High
+## 5. High-level programming language
 
 The machine language speaks by the computer hardware defines the low-level language or the computer's native language.
 

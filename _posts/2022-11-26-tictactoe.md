@@ -13,7 +13,7 @@ Fortunally, I have worked on a challenge offer by the Python Institute on which 
 Challenge occurs at the end of the first part of the Python fundamentals.
 It consists in creating a tic-tac-toe game which you can run from the command line.
 
-## Drawing the board
+## 1. Drawing the board
 
 First, the initial **board** variable corresponds to :
 
@@ -39,7 +39,7 @@ def display_board(board) -> str:
         print("\n".join(board[_]))
 ```
 
-## Scanning the board
+## 2. Scanning the board
 
 Firstly, I was not doing the job in the right way.
 
@@ -96,13 +96,13 @@ Output expected:
 [[(0, 0), (0, 1), (0, 2)], [(1, 0), None, (1, 2)], [(2, 0), (2, 1), (2, 2)]]
 ```
 
-## The moves
+## 3. The moves
 
 The game start with the board full with digit from 1 to 9.
 The fifth box is marked with a cross.
 So the first turn is for yours.
 
-### User moves
+### 3.1 User moves
 
 ```py
 def enter_move(board) -> list:
@@ -129,7 +129,7 @@ def enter_move(board) -> list:
         return enter_move(board)
 ```
 
-### Computer moves
+### 3.2 Computer moves
 
 We are going to use the built-in random module.
 
@@ -160,7 +160,7 @@ def draw_move(board) -> list:
             start_bot = True
 ```
 
-## Win or loose
+## 4. Win or loose
 
 I use some string manipulations to get the result.
 
@@ -188,7 +188,7 @@ def victory_for(board, sign=["XXX","OOO"]) -> str:
         exit()
 ```
 
-## Makes all work
+## 5. Makes all work
 
 Finally, I define the last main function.
 
@@ -202,7 +202,7 @@ def main(board):
         victory_for(board)
 ```
 
-## Conclusion
+## 6. Conclusion
 
 You can find all the code on my GitHub [CMagnac](https://github.com/CMagnac/TicTacToe).
 
