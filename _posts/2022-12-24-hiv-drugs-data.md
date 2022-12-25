@@ -4,7 +4,7 @@ title: HIV drugs and data
 date: 2022-12-24 10:00:09 +0200
 categories: infectology
 permalink: blog/:categories/:title
-caption: <a href="https://www.freepik.com/free-vector/set-medical-icons-3d-designs_3439395.htm#query=online%20pharmacy&position=17&from_view=search&track=sph">Image by rawpixel.com</a> on Freepik
+caption: <a href="https://www.freepik.com/free-vector/set-medical-icons-3d-designs_3439395.htm#query=online%20pharmacy&position=17&from_view=search&track=sph">Image by rawpixel</a> on Freepik
 image: 61792-min.jpg
 ---
 This post has been written from diverse relevant source of informations on HIV and cathinone.
