@@ -129,14 +129,13 @@ This list of prevention has been copied from the tribal epidemiology website.
 
 Be safe on your journey.
 
-## 5. Bibliography
-
-+ [Pubchem](https://pubchem.ncbi.nlm.nih.gov/compound/62156)
-+ [Drugbank](https://go.drugbank.com/drugs/DB01535)
-+ [Overview data](https://www.hhs.gov/opioids/about-the-epidemic/index.html)
-+ [Weapon](https://www.history.com/news/opioid-chemical-weapons-moscow-theater-hostage-crisis)
-+ [Overdose death rate](https://nida.nih.gov/research-topics/trends-statistics/overdose-death-rates)
-+ [anesthetic to death](https://pubmed.ncbi.nlm.nih.gov/33581655/)
-+ [insightcrime](https://insightcrime.org/news/fentanyl-morphine-sold-under-counter-paraguay-pharmacies/)
-+ [science](https://www.science.org/content/article/underground-labs-china-are-devising-potent-new-opiates-faster-authorities-can-respond)
-+ [prevention](https://tribalepicenters.org/)
+> ### Bibliographies
+>
+> - Pubchem: [carfentanil profile](https://pubchem.ncbi.nlm.nih.gov/compound/62156).
+> - Drugbank: [carfentanil profile](https://go.drugbank.com/drugs/DB01535).
+> - History: [chemical weapon](https://www.history.com/news/opioid-chemical-weapons-moscow-theater-hostage-crisis).
+> - National Institutes of Health: [report on overdose](https://nida.nih.gov/research-topics/trends-statistics/overdose-death-rates).
+> - From anesthetic to death: [Pubmed article](https://pubmed.ncbi.nlm.nih.gov/33581655/).
+> - Insightcrime website: [insightcrime article](https://insightcrime.org/news/fentanyl-morphine-sold-under-counter-paraguay-pharmacies/).
+> - Science website: [underground labs](https://www.science.org/content/article/underground-labs-china-are-devising-potent-new-opiates-faster-authorities-can-respond).
+> - Tribalepicenters: [about prevention](https://tribalepicenters.org/).
