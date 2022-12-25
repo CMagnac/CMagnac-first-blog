@@ -81,7 +81,7 @@ Here are some data from US:
 
 I have formated a sample of data from the "Overdose death rate", you can find the link in the bibliography list.
 
-Click [here]({% link table.md %}) to see the data table formated.
+Click [here]({% link download/anyopioid_data.csv %}) to download the file.
 
 Below is the python code.
 
