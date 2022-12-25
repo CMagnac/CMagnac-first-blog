@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Working on xls
+title: Working on xls with python
 date: 2022-12-10 10:00:09 +0200
 categories: programming
 caption: <a href="https://www.freepik.com/free-vector/data-extraction-concept-illustration_12079896.htm#query=data&from_query=dataframe&position=8&from_view=search&track=sph">Image by storyset</a> on Freepik

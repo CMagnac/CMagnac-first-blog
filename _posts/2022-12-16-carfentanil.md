@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Opioid reports
+title: Carfentanil data and usage
 date: 2022-12-16 10:00:09 +0200
 categories: Reports
 caption: <a href="https://pubchem.ncbi.nlm.nih.gov/">Image by Pubchem</a>
@@ -12,7 +12,7 @@ Carfentanil is an opioid analgesic dérivated from the chemical structure of fen
 By adding an ester compound to fentanyl you get carfentanyl. Then, the activity of carfentanyl is multiply by a hundred.
 Carfentanil was first synthesized in 1974 by a team of chemists at Janssen Pharmaceutical which included Paul Janssen.
 
-The only antidote to a carfentanyl intoxication is naloxone.
+The only antidote to a carfentanil intoxication is naloxone.
 
 ## 1. Pharmacology
 
@@ -123,7 +123,7 @@ This list of prevention has been copied from the tribal epidemiology website.
 + keep drugs in a safe storage
 + dispose leftover prescription medication
 + talk to your doctor
-+ don't take opioids with alcohol and other medication+
++ don't take opioids with alcohol and other medication
 + ask for help
 + know what to do in an overdose emergency situation
 

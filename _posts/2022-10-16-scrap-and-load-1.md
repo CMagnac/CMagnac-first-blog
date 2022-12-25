@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Scrape and Load I
+title: Scrape and load data with python I
 date: 2022-10-16 10:00:09 +0200
 categories: programming
 image: scrape1.jpg
