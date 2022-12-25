@@ -28,7 +28,7 @@ So first, let's create a config.json file and add pairs of keys and values as fo
 ## The code
 
 We will need the same pypi librairies I have used in my previous post about scrapîng.
-You can refer to it on how to install and have more informations by clicking on this [link]({% link _posts/2022-10-16-scrap-load-1.md %}).
+You can refer to it on how to install and have more informations by clicking on this [link]({% link _posts/2022-10-16-scrap-and-load-1.md %}).
 
 I have also use the time built in module to get the script processing time.
 
