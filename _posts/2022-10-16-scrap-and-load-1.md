@@ -1,44 +1,32 @@
 ---
 layout: post
-title: 1 Web-Scraping with Python
+title: A simple WebScraper in Python
 date: 2022-10-16 10:00:09 +0200
 categories: programming
 image: scrape1.jpg
 caption: <a href="https://fr.freepik.com/vecteurs-libre/programmeur-travaillant-code-developpement-web-ingenieur-programmation-python-php-java-script-ordinateur_14723889.htm#query=python&position=9&from_view=search&track=sph">Image by svstudioart</a> on Freepik
 ---
-I have always been filled with Asian culture.
-Asia is a ...
-I have always been filled with Chinese culture, especially the language. A sinograph is built with different *key*.
+The idea of writing this post came up with a question: How to gather informations about HSK1 using python ?
 
-Firstly, If you wish to understand chinese way of thinking, you would need to learn almost 200 hundred keys. Then, understand how to draw them. Also, how they fit together.
+HSK stands for Hanyu Shuiping Kaoshi (汉语水平考试), it's an exam that demonstrates your level of Mandarin.
+The exam is divided into two parts: the listening comprehension and the reading comprehension.
 
-Going back to the drawing board.  
+Learning and speaking chinese is a long path because you will have to think in "chinese". There are two hundred keys to learn before understanding a bit of how sinographs are built. Besides having a good graphical memory, you also need to have a good ton memory.
 
-One of the most difficult part of learning chinese language is to remember the correspondance between the characters and its pinyin signification.
+Going back to the drawing board and find your own method.  
 
 Pinyins are the phonetic transcription of chinese characters.
-One characters can be pronounced by four differents tones.
-You will need to practice a lot how to "sing" each sinograms and remember their tones.
-There are a lot of websites talking about pinyin, wikipedia is a good reference to have an overview of any concepts.
-Here is the link: [pinyin on wikipedia](https://en.wikipedia.org/wiki/Pinyin).
+One characters can be pronounced in four differents ways.
 
 Being active is the path to sucess, to achieve it you must constantly test your knowledge.
 
-As a python enthusiast, I was asking me this question :
-
-How can I improve my python skills for getting a useful tool to help me learning chinese ?
-
-## 1. Set up our environment
+## 1. Set up the environment
 
 I will use Python version 3.10.6 and two famous python libraries for webscraping : requests and beautifulsoup4.
 
 Our target will be a html table from a website which refers to the HSK level 1 vocabularies list (unofficial).
 
-HSK is the Chinese Proficiency Test.
-
-More informations on HSK [here](https://en.wikipedia.org/wiki/Hanyu_Shuiping_Kaoshi).
-
-### Create a virtual environment
+### 1.1 Create a virtual environment
 
 Learning how to create and work with virtual environment is a good habit to take.
 
@@ -49,15 +37,15 @@ Setup the environment:
     $ virtualenv -p /usr/bin/python3 venv   # Create the environment, with the Python 3.x interpreter
     $ source venv/bin/activate              # Active the environment
 
-### Install the libraries
+### 1.2 Install the libraries
 
-Requests : *Requests is a simple, yet elegant, HTTP library.*
+**Requests**: *Requests is a simple, yet elegant, HTTP library.*
 
-More informations on requests [here](https://pypi.org/project/requests/).
+If you want more informations on requests, click here: [requests at pypi](https://pypi.org/project/requests/).
 
-Beautifulsoup4 : *Beautiful Soup is a library that makes it easy to scrape information from web pages.*
+**Beautifulsoup4**: *Beautiful Soup is a library that makes it easy to scrape information from web pages.*
 
-More informations on beautifulsoup [here](https://pypi.org/project/beautifulsoup4/).
+If you want more informations on beautifulsoup, click here: [beautifulsoup at pypi](https://pypi.org/project/beautifulsoup4/).
 
 A good practice is to create a requirements.txt which contains the packages.
 
@@ -70,7 +58,8 @@ Now install the packages:
 
     $ pip install -r requirements.txt
 
-More informations on virtualenv [here](http://docs.python-guide.org/en/latest/dev/virtualenvs/).
+More informations on virtualenv ?
+Rigth here: [virtualenv at python.org](http://docs.python-guide.org/en/latest/dev/virtualenvs/).
 
 ## 2. The code
 
@@ -110,10 +99,10 @@ if __name__ == "__main__":
     load_data(url)
 ```
 
-### Run the code
+## 3. Run the code
 
 From the terminal and in your working folder, tape this.
 
-```sh
+```bash
 python main.py
 ```
