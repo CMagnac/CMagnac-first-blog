@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2 Web-Scraping with Python
+title: Web-Scraping with Python
 date: 2022-11-06 10:00:09 +0200
 categories: programming
 caption: <a href="https://fr.freepik.com/vecteurs-libre/illustration-concept-abstrait-traducteur-numerique_12291007.htm#query=dictionary&position=8&from_view=search&track=sph">Image by vectorjuice</a> on Freepik
@@ -8,7 +8,7 @@ image: scrape2.jpg
 ---
 This post is about a python script where you will learn to scrap informations. Data will be store into json dictionaries.
 
-## Configuration
+## 1. Configuration
 
 Having more control on our script and for a better understanding of it, these are the purpose of my configuration file.
 
@@ -25,7 +25,7 @@ So first, let's create a config.json file and add pairs of keys and values as fo
 }
 ```
 
-## The code
+## 2. The code
 
 We will need the same pypi librairies I have used in my previous post about scrapîng.
 You can refer to it on how to install and have more informations by clicking on this [link]({% link _posts/2022-10-16-scrap-and-load-1.md %}).
