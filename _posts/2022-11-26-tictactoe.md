@@ -1,10 +1,10 @@
 ---
 layout: post
-title: TicTacToe game with python
+title: Coding a TicTacToe game with Python
 date: 2022-11-26 10:00:09 +0200
 categories: programming
-caption: <a href="https://www.freepik.com/free-vector/decision-fatigue-concept-illustration_24488359.htm#query=tired&position=9&from_view=search&track=sph">Image by storyset</a> on Freepik
-image: 6960661-min.jpg
+image: post_7.jpg
+caption: <a href="https://www.freepik.com/free-vector/decision-fatigue-concept-illustration_24488359.htm#query=tired&position=9&from_view=search&track=sph">Image by storyset</a>
 ---
 Last week, I was wondering what kind of post I will write for today.
 

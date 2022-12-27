@@ -1,6 +1,6 @@
 ---
 layout: post-common-stem
-title: Tecan-Stem
+title: Family of cytotoxic antineoplasic drugs
 date: 2022-10-23 10:00:09 +0200
 categories: health
 ---

@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Back to Basics II
+title: Data types and structures in Python
 date: 2022-12-04 10:00:09 +0200
 categories: programming
-caption: Image by jeekang on GitHub 
-image: privateinvestocat.jpg
+image: post_5.jpg
+caption: Image by jeekang on GitHub
 ---
 
 There are five types of literals used in Python.

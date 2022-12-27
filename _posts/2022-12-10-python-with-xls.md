@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Working on xls with python
+title: Xls to html and sql with Python
 date: 2022-12-10 10:00:09 +0200
 categories: programming
-caption: <a href="https://www.freepik.com/free-vector/data-extraction-concept-illustration_12079896.htm#query=data&from_query=dataframe&position=8&from_view=search&track=sph">Image by storyset</a> on Freepik
-image: 4905827-min.jpg
+image: post_8.jpg
+caption: <a href="https://www.freepik.com/free-vector/data-extraction-concept-illustration_12079896.htm#query=data&from_query=dataframe&position=8&from_view=search&track=sph">Image by storyset</a>
 ---
 
 In this post I will show you how to extract data from a xls document. Therefore datas will be transform into a html table and load into a sql database.
@@ -12,7 +12,7 @@ In this post I will show you how to extract data from a xls document. Therefore 
 For this script you will need to install the pandas package.
 You can find more informations on pandas [here](https://pandas.pydata.org/).
 
-## The xls data
+## 1. The xls data
 
 I work on a project about how to use my programming skills combined with my pharmacy knowledge.
 Datas can be found [here](https://mshpriceguide.org/fr/download-files-2/).
@@ -20,7 +20,7 @@ Datas can be found [here](https://mshpriceguide.org/fr/download-files-2/).
 Datas were collected on the Management Science for Health website.
 They are used by non governmental organization to purchase drugs.
 
-## Issues and discussion
+## 2. Issues and discussion
 
 I face two main problems:
 
@@ -68,7 +68,7 @@ Finally, I transform the dataframe into a html table.
 df.to_html('msh_prices.html')
 ```
 
-## Load data into a SQL database
+## 3. Load data into a SQL database
 
 Create the database and make the first commit.
 
@@ -101,6 +101,6 @@ for row in c.fetchall():
     print(row)
 ```
 
-## Conclusion
+## 4. Conclusion
 
 You can find all the code on my GitHub account [CMagnac](https://github.com/CMagnac/Extract-and-Load-Script).

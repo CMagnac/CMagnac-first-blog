@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Carfentanil data and usage
+title: Report on carfentanil drug facts
 date: 2022-12-16 10:00:09 +0200
 categories: Reports
+image: post_9.png
 caption: <a href="https://pubchem.ncbi.nlm.nih.gov/">Image by Pubchem</a>
-image: Carfentanil_500.png
 ---
 
 Carfentanil is an opioid analgesic dérivated from the chemical structure of fentanyl. Carfentanil is used as a tranquilizer for large animals.
@@ -126,8 +126,6 @@ This list of prevention has been copied from the tribal epidemiology website.
 + don't take opioids with alcohol and other medication
 + ask for help
 + know what to do in an overdose emergency situation
-
-Be safe on your journey.
 
 > ### Bibliographies
 >
