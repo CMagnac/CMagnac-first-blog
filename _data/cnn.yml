@@ -1,0 +1,30 @@
+- year: 1998
+  cnn: LeNet(8)
+  developer: Yann LeCun et al
+  error_rates:
+  parameters: "60 thousand"
+- year: 2012
+  cnn: AlexNet(7)
+  developer: Alex Krizhevsky, Geoffrey Hinton, Ilya Sutskever
+  error_rates: "15.3 %"
+  parameters: "60 million"
+- year: 2013
+  cnn: ZFNet()
+  developer: Matthew Zeiler and Rob Fergus
+  error_rates: "14.8 %"
+  parameters:
+- year: 2013
+  cnn: GoogLeNet(19)
+  developer: Google
+  error_rates: "6.67 %"
+  parameters: "4 million"
+- year: 2014
+  cnn: VGG Net(16)
+  developer: Simonyan, Zisserman
+  error_rates: "7.3 %"
+  parameters: "138 million"
+- year: 2015
+  cnn: ResNet(152)
+  developer: Kaiming He
+  error_rates: "3.6 %"
+  parameters:
