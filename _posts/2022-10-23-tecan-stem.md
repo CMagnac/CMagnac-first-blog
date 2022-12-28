@@ -1,6 +1,6 @@
 ---
 layout: post-common-stem
-title: Family of cytotoxic antineoplasic drugs
+title: Topoisomerase 1 inhibitors common stem
 date: 2022-10-23 10:00:09 +0200
 categories: health
 ---

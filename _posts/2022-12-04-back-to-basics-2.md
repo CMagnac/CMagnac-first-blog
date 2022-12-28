@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Data types and structures in Python
+title: Python literals
 date: 2022-12-04 10:00:09 +0200
 categories: programming
 image: post_5.jpg

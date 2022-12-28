@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Coding a web-scraper with Python
+title: Coding a web-scraper in Python
 date: 2022-10-16 10:00:09 +0200
 categories: programming
 image: post_2.jpg

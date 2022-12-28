@@ -1,6 +1,6 @@
 ---
 layout: post
-title: mushroom poisoning
+title: Poisonous mushrooms 
 date: 2022-12-28 10:00:09 +0200
 categories: Reports
 image: .png
@@ -59,6 +59,8 @@ dialysis, chronic renal insufficiency for patients who survive.
 
 ## 3. Psilocybin
 
+therapeutic potential
+
 ## 4. Rhabdomyolysis effect
 
 ## 5. Example of Treatment of the death cap
@@ -82,3 +84,4 @@ prognosis depends on which mushroom has been ingested
 > - CNN architectures on medium: [cnn on medium](https://medium.com/analytics-vidhya/cnns-architectures-lenet-alexnet-vgg-googlenet-resnet-and-more-666091488df5)
 > - Silibinin on pubchem: [silibinin](https://pubchem.ncbi.nlm.nih.gov/compound/31553)
 > - Mushroom toxicity: [national library of medecine](https://www.ncbi.nlm.nih.gov/books/NBK537111/)
+> - Therapeutic potential of psilocybin: [national library of medecine](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8156539/)

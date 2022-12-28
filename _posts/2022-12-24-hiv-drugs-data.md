@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Report on HIV drugs: a lethal association"
+title: "Lethal association: HIV drugs with cathinone"
 date: 2022-12-24 10:00:09 +0200
 categories: infectology
 permalink: blog/:categories/:title

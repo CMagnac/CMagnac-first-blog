@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Data scraping in Python
-title: Web-Scraping with Python
 date: 2022-11-06 10:00:09 +0200
 categories: programming
 image: post_4.jpg

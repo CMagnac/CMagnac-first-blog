@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Report on carfentanil drug facts
+title: Carfentanil drug facts
 date: 2022-12-16 10:00:09 +0200
 categories: Reports
 image: post_9.png

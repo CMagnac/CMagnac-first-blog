@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Xls to html and sql with Python
+title: Python script, Xls to html and sql
 date: 2022-12-10 10:00:09 +0200
 categories: programming
 image: post_8.jpg
