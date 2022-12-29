@@ -3,6 +3,7 @@ layout: post
 title: Data scraping in Python
 date: 2022-11-06 10:00:09 +0200
 categories: programming
+permalink: blog/:categories/:title
 image: post_4.jpg
 caption: <a href="https://fr.freepik.com/vecteurs-libre/illustration-concept-abstrait-traducteur-numerique_12291007.htm#query=dictionary&position=8&from_view=search&track=sph">Image by vectorjuice</a>
 ---

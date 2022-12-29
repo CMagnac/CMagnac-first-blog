@@ -1,0 +1,31 @@
+---
+layout: page
+---
+<table class="grid" style="width: 100%">
+    <colgroup>
+        <col width="20%" />
+        <col width="65%" />
+        <col width="15%" />
+    </colgroup>
+    <thead>
+    
+        <tr class="header">
+            <th>Year</th>
+            <th>CNN</th>
+            <th>Developer</th>
+            <th>Error rates</th>
+            <th>Number of parameter</th>
+        </tr>
+    </thead>
+    {%- for values in site.data.cnn -%}
+    <tbody>
+        <tr>
+          <td>{{ values.year }}</td>
+          <td>{{ values.cnn }}</td>
+          <td>{{ values.developer }}</td>
+          <td>{{ values.error_rates }}</td>
+          <td>{{ values.parameters }}</td>
+        </tr>
+    {% endfor %}
+    </tbody>
+</table>

@@ -3,6 +3,7 @@ layout: post
 title: Python literals
 date: 2022-12-04 10:00:09 +0200
 categories: programming
+permalink: blog/:categories/:title
 image: post_5.jpg
 caption: Image by jeekang on GitHub
 ---

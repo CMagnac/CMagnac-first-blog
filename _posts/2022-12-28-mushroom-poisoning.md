@@ -3,6 +3,7 @@ layout: post
 title: Poisonous mushrooms 
 date: 2022-12-28 10:00:09 +0200
 categories: Reports
+permalink: blog/:categories/:title
 image: post_11.jpg
 caption: <a href="https://www.freepik.com/free-vector/caution-label-gray-background_5853673.htm#query=poisonous&position=8&from_view=search&track=sph">Image by gstudioimagen</a>
 ---
