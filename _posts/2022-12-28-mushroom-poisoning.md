@@ -3,8 +3,8 @@ layout: post
 title: Poisonous mushrooms 
 date: 2022-12-28 10:00:09 +0200
 categories: Reports
-image: .png
-caption: <a href="https://pubchem.ncbi.nlm.nih.gov/">Image by Pubchem</a>
+image: post_11.jpg
+caption: <a href="https://www.freepik.com/free-vector/caution-label-gray-background_5853673.htm#query=poisonous&position=8&from_view=search&track=sph">Image by gstudioimagen</a>
 ---
 Human has cooked and used mushrooms since ancient times.
 Even if mushrooms were appreciated for their culinar aspects, they were also used for magical or therapeutical activities.
@@ -50,7 +50,7 @@ There are six major types of intoxication by poisonous mushrooms.
 
 ### 2.1 Cytotoxic mushroom
 
-**Amanita** and **Cortinarius** species are nephrotoxicity and  hepatoxicity.
+**Amanita** and **Cortinarius** species are nephrotoxic and  hepatoxic.
 
 + Amanita species contain **amanitin**.
 + Cortinarius species contain **orellanine**.
@@ -79,28 +79,20 @@ This is a common effect of several mushroom intoxication.
 
 ### 3.1 Orellanine
 
-nephrotoxic toxin
-mushroom species of Cortinarius genus
-Europe and North America
-1950: mass poisoning in Poland
-characteristics of intoxication: delayed symptoms after 2 weeks
-no specific antidote
-dialysis, chronic renal insufficiency for patients who survive.
+Orellanine is a nephrotoxic toxin who is synthetize by mushroom species of Cortinarius genus. Cortinarius grow in Europe and North America.
+One characteristics of intoxication is the apparition of symptoms at least 2 weeks, sometimes 1 month, after the ingestion. That is a serious problem for the identification of the cause of hospitalization.
+There is no pecific antidote and half patients die. Others suffer from chronic renal insufficiency and need lifelong dialysis.
 
 ### 3.2 Psilocybin
 
-therapeutic potential
+Despite their festive consumption, magic mushrooms has some therapeutic potential. Trial suggests that they can treat sever depression. Major problem for this kind of therapy, as it was the case for ayahuasca, is the strict protocol that patients need to be aware.
 
 ## 4. Treatment of the death cap intoxication
 
-Amanita phalloides
-Silibinine
-Supportive care
-activated charcoal
-antiemetics in addition with rehydration
-anticholinergic agents such as glycopyrrolate or atropine
-differential diagnostic
-prognosis depends on which mushroom has been ingested
+The Dorosz edition, a french clinical dictionary, describes only on specific treatment for the intoxication by the Amanita phalloides.
+With supportive care, doctor can use **silibinine** combine with activated charcoal. In addition with antiemtic drugs and rehydration or anticholinergic agents such as glycopyrrolate or atropine. All that depends on the clinical evaluation.
+
+In a global view, the prognosis depends on which mushroom has been ingested.
 
 > bibliographies:
 >
