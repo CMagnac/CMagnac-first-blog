@@ -6,48 +6,78 @@ categories: Reports
 image: .png
 caption: <a href="https://pubchem.ncbi.nlm.nih.gov/">Image by Pubchem</a>
 ---
-## 1. Introduction
+Human has cooked and used mushrooms since ancient times.
+Even if mushrooms were appreciated for their culinar aspects, they were also used for magical or therapeutical activities.
 
-nutrients (amino acids, polysaccharides)
-dietary cuisine
-probability of eating toxic mushrooms is high : knowledge
-deeplearning algorithm can help to identify toxic mushrooms
-example, note about the article of china deep convolutional neural network
-Lots of research with deep convolutional neural network
-Models use : AlexNet, VGG16, DenseNet, ResNet50
-CNN architectures
-CNN: multilayer of neural that recognizes visual patterns directly from pixel images
-Summary table (cnn.yml)
+Nowadays, people sometimes prefer to gather mushroom by their own and the majority eats poisonous mushrooms because they don't have the knowledge to recognize the toxic one.
 
-## 1. Type of intoxication
+Nowadays, magic mushrooms are used illegally for their psychotropic effects. The experience can go really bad and some consumers has been under psychiatric treatements for the rest of their life.
 
-### 1.1 Cytotoxic mushroom
+Research about therapeutical usage and bio product is on the move.
 
-nephrotoxicity +  hepatoxicity
-target liver and kidney
-amanitin, aminohexadieonic acid, orellanine
-Aminita and Cortinarius species
+## 1. Edible vs poisonous
 
-### 1.2 Neurotoxic mushroom
+### 1.1 Potential applications of medicinal mushrooms
 
-Psilocybin, muscarines, isoxazoles
-Agaricales mushrooms: Amanita, Clitocybe, Inocybe, Psilocybe, Gymnophilus.
-Hallucinogenic mushrooms
+Here is a list extract from the Multidisciplinary Digital Publishing Institute. The link to the full article is at the end of the post in the bibliographies section.
 
-### 1.3 Myotoxic mushroom
++ Food consumption
++ Cosmetics (skin care formulations)
++ Biosorbent or bio-degradator
++ Green synthesis of metal nanoparticles
++ Bio-fertilizers
++ Therapeutic properties
++ Production of cellulolytic enzymes
++ Bioethanol production
++ Edible mushrooms based-films
++ Biomedical applications
 
-rhabdomyolysis
-Russula and Tricholoma
+### 1.2 Poisonous mushrooms
 
-### 1.4 Metabolic, endocrine mushroom
+The probability of eating toxic mushrooms is high.
 
-Pancytopenia, trichothecene, GABA-blocking, disulfiram-like
-Hypoglycemia, hyperprocalcitoninemia
-Polyporic mushroom
+As far as I remember, my university professor taught us that the path to the recognition of mushrooms is hard and you must yearly update your knowledge. Both on theoretical and practical ways.
 
-### 1.5 Gastrointestinal irritant mushroom
+Research is focusing on deeplearning algorithm to help people to indentify toxic mushrooms.
+There is an interesting article about it.
+You can download the pdf article here: [downloadpdf]({% link download/cnn_classification.pdf %}).
 
-## 2. Orellanine
+Research is using deep convolutional neural network (CNN). CNN are a multilayer of neural that recognizes visual patterns directly from pixel images.
+
+## 2. Type of intoxication
+
+There are six major types of intoxication by poisonous mushrooms.
+
+### 2.1 Cytotoxic mushroom
+
+**Amanita** and **Cortinarius** species are nephrotoxicity and  hepatoxicity.
+
++ Amanita species contain **amanitin**.
++ Cortinarius species contain **orellanine**.
+
+### 2.2 Neurotoxic mushroom
+
+Agaricales mushrooms belong to this neurotoxic class: Amanita, Clitocybe, Inocybe, Psilocybe, Gymnophilus.
+According to species, they contain: psilocybin, muscarines and isoxazoles.
+Hallucinogenic mushrooms belong to this class.
+
+### 2.3 Myotoxic mushroom
+
+They cause rhabdomyolysis which is a degradation of the skeletal muscle.
+Russula and Tricholoma species are myotoxic.
+
+### 2.4 Metabolic, endocrine mushroom
+
+Polyporic mushroom causes this type of clinical syndromes.
+Medic reports: pancytopenia, trichothecene, GABA-blocking, disulfiram-like effect, hypoglycemia and hyperprocalcitoninemia.
+
+### 2.5 Gastrointestinal irritant mushroom
+
+This is a common effect of several mushroom intoxication.
+
+## 3. Example of two active substances
+
+### 3.1 Orellanine
 
 nephrotoxic toxin
 mushroom species of Cortinarius genus
@@ -57,13 +87,11 @@ characteristics of intoxication: delayed symptoms after 2 weeks
 no specific antidote
 dialysis, chronic renal insufficiency for patients who survive.
 
-## 3. Psilocybin
+### 3.2 Psilocybin
 
 therapeutic potential
 
-## 4. Rhabdomyolysis effect
-
-## 5. Example of Treatment of the death cap
+## 4. Treatment of the death cap intoxication
 
 Amanita phalloides
 Silibinine
@@ -85,3 +113,4 @@ prognosis depends on which mushroom has been ingested
 > - Silibinin on pubchem: [silibinin](https://pubchem.ncbi.nlm.nih.gov/compound/31553)
 > - Mushroom toxicity: [national library of medecine](https://www.ncbi.nlm.nih.gov/books/NBK537111/)
 > - Therapeutic potential of psilocybin: [national library of medecine](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8156539/)
+> - Article on edible mushroom from Multidisciplinary Digital Publishing Institute (MDPI): [MDPI article](https://www.mdpi.com/2071-1050/14/9/4941).
