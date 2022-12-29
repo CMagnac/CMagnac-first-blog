@@ -58,7 +58,7 @@ There are six major types of intoxication by poisonous mushrooms.
 ### 2.2 Neurotoxic mushroom
 
 Agaricales mushrooms belong to this neurotoxic class: Amanita, Clitocybe, Inocybe, Psilocybe, Gymnophilus.
-According to species, they contain: psilocybin, muscarines and isoxazoles.
+According to species, they contain: psilocybine, muscarines and isoxazoles.
 Hallucinogenic mushrooms belong to this class.
 
 ### 2.3 Myotoxic mushroom
@@ -83,14 +83,14 @@ Orellanine is a nephrotoxic toxin who is synthetize by mushroom species of Corti
 One characteristics of intoxication is the apparition of symptoms at least 2 weeks, sometimes 1 month, after the ingestion. That is a serious problem for the identification of the cause of hospitalization.
 There is no pecific antidote and half patients die. Others suffer from chronic renal insufficiency and need lifelong dialysis.
 
-### 3.2 Psilocybin
+### 3.2 Psilocybine
 
 Despite their festive consumption, magic mushrooms has some therapeutic potential. Trial suggests that they can treat sever depression. Major problem for this kind of therapy, as it was the case for ayahuasca, is the strict protocol that patients need to be aware.
 
 ## 4. Treatment of the death cap intoxication
 
 The Dorosz edition, a french clinical dictionary, describes only on specific treatment for the intoxication by the Amanita phalloides.
-With supportive care, doctor can use **silibinine** combine with activated charcoal. In addition with antiemtic drugs and rehydration or anticholinergic agents such as glycopyrrolate or atropine. All that depends on the clinical evaluation.
+With supportive care, doctor can use **silibinin** combine with activated charcoal. In addition with antiemtic drugs and rehydration or anticholinergic agents such as glycopyrrolate or atropine. All that depends on the clinical evaluation.
 
 In a global view, the prognosis depends on which mushroom has been ingested.
 
@@ -101,8 +101,8 @@ In a global view, the prognosis depends on which mushroom has been ingested.
 > - psilocybin on pubchem: [psilocybin](https://pubchem.ncbi.nlm.nih.gov/compound/10624).
 > - orellanine on pubchem: [orellanine](https://pubchem.ncbi.nlm.nih.gov/compound/89579).
 > - tricholoma equestre study on springer: [tricholoma equestre](https://link.springer.com/article/10.1007/s00217-018-3134-0).
-> - CNN architectures on medium: [cnn on medium](https://medium.com/analytics-vidhya/cnns-architectures-lenet-alexnet-vgg-googlenet-resnet-and-more-666091488df5)
-> - Silibinin on pubchem: [silibinin](https://pubchem.ncbi.nlm.nih.gov/compound/31553)
-> - Mushroom toxicity: [national library of medecine](https://www.ncbi.nlm.nih.gov/books/NBK537111/)
-> - Therapeutic potential of psilocybin: [national library of medecine](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8156539/)
+> - CNN architectures on medium: [cnn on medium](https://medium.com/analytics-vidhya/cnns-architectures-lenet-alexnet-vgg-googlenet-resnet-and-more-666091488df5).
+> - Silibinin on pubchem: [silibinin](https://pubchem.ncbi.nlm.nih.gov/compound/31553).
+> - Mushroom toxicity: [national library of medecine](https://www.ncbi.nlm.nih.gov/books/NBK537111/).
+> - Therapeutic potential of psilocybin: [national library of medecine](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8156539/).
 > - Article on edible mushroom from Multidisciplinary Digital Publishing Institute (MDPI): [MDPI article](https://www.mdpi.com/2071-1050/14/9/4941).
