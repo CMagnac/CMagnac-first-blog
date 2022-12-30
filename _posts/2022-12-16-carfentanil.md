@@ -2,7 +2,7 @@
 layout: post
 title: Carfentanil drug facts
 date: 2022-12-16 10:00:09 +0200
-categories: Reports
+categories: toxicology
 permalink: blog/:categories/:title
 image: post_9.png
 caption: <a href="https://pubchem.ncbi.nlm.nih.gov/">Image by Pubchem</a>

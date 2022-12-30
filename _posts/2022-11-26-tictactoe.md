@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Coding a TicTacToe game in Python
+title: Coding TicTacToe in Python
 date: 2022-11-26 10:00:09 +0200
 categories: programming
 permalink: blog/:categories/:title

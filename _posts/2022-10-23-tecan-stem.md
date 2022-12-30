@@ -2,7 +2,7 @@
 layout: post-common-stem
 title: Topoisomerase 1 inhibitors common stem
 date: 2022-10-23 10:00:09 +0200
-categories: health
+categories: drugs
 permalink: blog/:categories/:title
 ---
 According to the nomenclature of international non-proprietary names (INNs) established by the World Health Organization (WHO), the INNS of cytotoxic antineoplasic drugs belonging to the group of topoisomerase I inhibitors end in the common stem **-tecan**.

@@ -2,7 +2,7 @@
 layout: post
 title: "Lethal association: HIV drugs with cathinone"
 date: 2022-12-24 10:00:09 +0200
-categories: infectology
+categories: infectiology
 permalink: blog/:categories/:title
 image: post_10.jpg
 caption: <a href="https://www.freepik.com/free-vector/set-medical-icons-3d-designs_3439395.htm#query=online%20pharmacy&position=17&from_view=search&track=sph">Image by rawpixel</a>
