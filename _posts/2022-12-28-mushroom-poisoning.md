@@ -2,7 +2,7 @@
 layout: post
 title: Poisonous mushrooms 
 date: 2022-12-28 10:00:09 +0200
-categories: Reports
+categories: toxicology
 permalink: blog/:categories/:title
 image: post_11.jpg
 caption: <a href="https://www.freepik.com/free-vector/caution-label-gray-background_5853673.htm#query=poisonous&position=8&from_view=search&track=sph">Image by gstudioimagen</a>
@@ -95,15 +95,15 @@ With supportive care, doctor can use **silibinin** combine with activated charco
 
 In a global view, the prognosis depends on which mushroom has been ingested.
 
-> bibliographies:
+> ### Bibliographies
 >
-> - article about toxicology of orellanine on pubchem: [toxicology of orellanine](https://pubmed.ncbi.nlm.nih.gov/26553321/).
-> - article about groups of poisonous mushrooms: [semantic scholar](https://www.semanticscholar.org/paper/Six-groups-of-poisonous-mushrooms%3A-classified-to-Yu/eb2260efbe5e09680a708e20ee8be508d04e29ec).
-> - psilocybin on pubchem: [psilocybin](https://pubchem.ncbi.nlm.nih.gov/compound/10624).
-> - orellanine on pubchem: [orellanine](https://pubchem.ncbi.nlm.nih.gov/compound/89579).
-> - tricholoma equestre study on springer: [tricholoma equestre](https://link.springer.com/article/10.1007/s00217-018-3134-0).
-> - CNN architectures on medium: [cnn on medium](https://medium.com/analytics-vidhya/cnns-architectures-lenet-alexnet-vgg-googlenet-resnet-and-more-666091488df5).
-> - Silibinin on pubchem: [silibinin](https://pubchem.ncbi.nlm.nih.gov/compound/31553).
-> - Mushroom toxicity: [national library of medecine](https://www.ncbi.nlm.nih.gov/books/NBK537111/).
-> - Therapeutic potential of psilocybin: [national library of medecine](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8156539/).
-> - Article on edible mushroom from Multidisciplinary Digital Publishing Institute (MDPI): [MDPI article](https://www.mdpi.com/2071-1050/14/9/4941).
+> + article about toxicology of orellanine on pubchem: [toxicology of orellanine](https://pubmed.ncbi.nlm.nih.gov/26553321/).
+> + article about groups of poisonous mushrooms: [semantic scholar](https://www.semanticscholar.org/paper/Six-groups-of-poisonous-mushrooms%3A-classified-to-Yu/eb2260efbe5e09680a708e20ee8be508d04e29ec).
+> + psilocybin on pubchem: [psilocybin](https://pubchem.ncbi.nlm.nih.gov/compound/10624).
+> + orellanine on pubchem: [orellanine](https://pubchem.ncbi.nlm.nih.gov/compound/89579).
+> + tricholoma equestre study on springer: [tricholoma equestre](https://link.springer.com/article/10.1007/s00217-018-3134-0).
+> + CNN architectures on medium: [cnn on medium](https://medium.com/analytics-vidhya/cnns-architectures-lenet-alexnet-vgg-googlenet-resnet-and-more-666091488df5).
+> + Silibinin on pubchem: [silibinin](https://pubchem.ncbi.nlm.nih.gov/compound/31553).
+> + Mushroom toxicity: [national library of medecine](https://www.ncbi.nlm.nih.gov/books/NBK537111/).
+> + Therapeutic potential of psilocybin: [national library of medecine](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8156539/).
+> + Article on edible mushroom from Multidisciplinary Digital Publishing Institute (MDPI): [MDPI article](https://www.mdpi.com/2071-1050/14/9/4941).

@@ -110,13 +110,13 @@ You can find this article at the end of the bibliographies note.
 
 > ### Bibliographies
 >
-> - Manuel de poche de microbiologie médicale, 2nd édition, Lavoisier Médecine: [lavoisier website](https://www.lavoisier.fr/livre/sciences-de-la-vie/atlas-de-poche-de-microbiologie-medicale-2-ed/kayser/descriptif-9782257206367).
-> - Data Chart: [unaids org](https://www.unaids.org/en/resources/fact-sheet).
-> - Khat history: [khat history](https://leschroniquesduvegetal.wordpress.com/2020/05/04/le-khat-un-arbuste-africain-stupefiant/).
-> - Khat drug profil: [khat drug profil](https://www.emcdda.europa.eu/publications/drug-profiles/khat_fr).
-> - Pubchem: [cathinone profile](https://pubchem.ncbi.nlm.nih.gov/compound/62258).
-> - NGO: [sidaction](https://www.sidaction.org/), [aides](https://www.aides.org/).
-> - Psychostimulant Abuse and HIV Infection: [first ncbi article](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4582446/).
-> - Recent Human Immunodeficiency Virus Outbreak: [second ncbi article](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7314588/).
-> - Sexual practice: [about slam](https://www.frontiersin.org/articles/10.3389/fpsyt.2020.00705/full).
-> - Health article: [bbc news](https://www.bbc.com/news/health-60394306).
+> + Manuel de poche de microbiologie médicale, 2nd édition, Lavoisier Médecine: [lavoisier website](https://www.lavoisier.fr/livre/sciences-de-la-vie/atlas-de-poche-de-microbiologie-medicale-2-ed/kayser/descriptif-9782257206367).
+> + Data Chart: [unaids org](https://www.unaids.org/en/resources/fact-sheet).
+> + Khat history: [khat history](https://leschroniquesduvegetal.wordpress.com/2020/05/04/le-khat-un-arbuste-africain-stupefiant/).
+> + Khat drug profil: [khat drug profil](https://www.emcdda.europa.eu/publications/drug-profiles/khat_fr).
+> + Pubchem: [cathinone profile](https://pubchem.ncbi.nlm.nih.gov/compound/62258).
+> + NGO: [sidaction](https://www.sidaction.org/), [aides](https://www.aides.org/).
+> + Psychostimulant Abuse and HIV Infection: [first ncbi article](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4582446/).
+> + Recent Human Immunodeficiency Virus Outbreak: [second ncbi article](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7314588/).
+> + Sexual practice: [about slam](https://www.frontiersin.org/articles/10.3389/fpsyt.2020.00705/full).
+> + Health article: [bbc news](https://www.bbc.com/news/health-60394306).
