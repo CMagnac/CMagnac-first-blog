@@ -4,8 +4,8 @@ title: Carfentanil drug facts
 date: 2022-12-16 10:00:09 +0200
 categories: toxicology
 permalink: blog/:categories/:title
-image: post_9.png
-caption: <a href="https://pubchem.ncbi.nlm.nih.gov/">Image by Pubchem</a>
+image: carfentanil.png
+caption: <a href="https://pubchem.ncbi.nlm.nih.gov/compound/62156">Carfentanil by pubchem</a>
 ---
 
 Carfentanil is an opioid analgesic dérivated from the chemical structure of fentanyl. Carfentanil is used as a tranquilizer for large animals.

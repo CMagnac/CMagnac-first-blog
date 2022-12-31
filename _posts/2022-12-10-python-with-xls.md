@@ -4,8 +4,7 @@ title: Python script, Xls to html and sql
 date: 2022-12-10 10:00:09 +0200
 categories: programming
 permalink: blog/:categories/:title
-image: post_8.jpg
-caption: <a href="https://www.freepik.com/free-vector/data-extraction-concept-illustration_12079896.htm#query=data&from_query=dataframe&position=8&from_view=search&track=sph">Image by storyset</a>
+image: python_logo.png
 ---
 
 In this post I will show you how to extract data from a xls document. Therefore datas will be transform into a html table and load into a sql database.

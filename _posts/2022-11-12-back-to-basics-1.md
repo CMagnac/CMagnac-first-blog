@@ -4,7 +4,7 @@ title: Back to Python basics
 date: 2022-11-12 10:00:09 +0200
 categories: programming
 permalink: blog/:categories/:title
-image: post_5.jpg
+image: privateinvestocat.jpg
 caption: Image by jeekang on GitHub
 ---
 Taking a one year break to learn on my own was a huge challenge.

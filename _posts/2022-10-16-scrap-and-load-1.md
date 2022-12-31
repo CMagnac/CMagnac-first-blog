@@ -4,8 +4,7 @@ title: Coding a web-scraper in Python
 date: 2022-10-16 10:00:09 +0200
 categories: programming
 permalink: blog/:categories/:title
-image: post_2.jpg
-caption: <a href="https://fr.freepik.com/vecteurs-libre/programmeur-travaillant-code-developpement-web-ingenieur-programmation-python-php-java-script-ordinateur_14723889.htm#query=python&position=9&from_view=search&track=sph">Image by svstudioart</a>
+image: python_logo.png
 ---
 The idea of writing this post came up with a question: How to gather informations about HSK1 using python ?
 

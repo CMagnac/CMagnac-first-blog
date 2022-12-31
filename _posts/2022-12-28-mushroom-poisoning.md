@@ -4,8 +4,8 @@ title: Poisonous mushrooms
 date: 2022-12-28 10:00:09 +0200
 categories: toxicology
 permalink: blog/:categories/:title
-image: post_11.jpg
-caption: <a href="https://www.freepik.com/free-vector/caution-label-gray-background_5853673.htm#query=poisonous&position=8&from_view=search&track=sph">Image by gstudioimagen</a>
+image: toxicology.jpg
+caption: <a href="https://www.freepik.com/free-vector/vintage-monochrome-gorilla-head_7987671.htm#query=toxic&from_query=toxicology&position=46&from_view=search&track=sph">Image by dgim-studio</a>
 ---
 Human has cooked and used mushrooms since ancient times.
 Even if mushrooms were appreciated for their culinar aspects, they were also used for magical or therapeutical activities.

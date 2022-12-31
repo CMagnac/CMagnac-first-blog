@@ -4,8 +4,7 @@ title: Coding TicTacToe in Python
 date: 2022-11-26 10:00:09 +0200
 categories: programming
 permalink: blog/:categories/:title
-image: post_7.jpg
-caption: <a href="https://www.freepik.com/free-vector/decision-fatigue-concept-illustration_24488359.htm#query=tired&position=9&from_view=search&track=sph">Image by storyset</a>
+image: python_logo.png
 ---
 Last week, I was wondering what kind of post I will write for today.
 
