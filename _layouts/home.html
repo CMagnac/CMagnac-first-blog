@@ -2,3 +2,25 @@
 layout: default
 ---
 <img src="{{ site.image_path }}/home_image.png" alt="" class="home-image">
+<h2 class="latest-home-title">Latest Posts</h2>
+<div class="latest-container">
+    {% for i in (0..3) %}
+    <figure class="latest-post">
+        {% if site.posts[i].layout == "post-common-stem" %}
+        <img src="{{ site.image_path }}/9814-min.jpg" class="title-post">
+        <a class="home-post-link" href="{{site.posts[i].url}}">
+            {{ site.posts[i].title }}
+        </a>
+        {% elsif site.posts[i].layout == "post" %}
+        <img src="{{ site.image_path }}/{{ site.posts[i].image }}" class="title-post">
+        <a class="home-post-link" href="{{site.posts[i].url}}">
+            {{ site.posts[i].title }}
+        </a>
+        {% endif %}
+    </figure>
+    {% endfor %}
+</div>
+<blockquote>
+    <h3>About Images</h3>
+    <p>Images are credited in each post. Just click and read.</p>
+</blockquote>
