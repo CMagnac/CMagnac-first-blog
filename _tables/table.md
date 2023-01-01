@@ -1,5 +1,6 @@
 ---
 layout: page
-title: Collection of table
+title: My tables
 permalink: /table/
 ---
+A collection of tables.
