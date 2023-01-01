@@ -31,14 +31,14 @@ a { color: #2a7ae2; text-decoration: none; }
 
 a:visited { color: #1756a9; }
 
-a:hover { color: #111; text-decoration: none; }
+a:hover { color:  #C9633A; text-decoration: none; }
 
 .social-media-list a:hover { text-decoration: none; }
 
 .social-media-list a:hover .username { text-decoration: underline; }
 
 /** Blockquotes */
-blockquote { color: #828282; border-left: 4px solid #e8e8e8; padding-left: 15px; font-size: 18px; letter-spacing: -1px; font-style: italic; }
+blockquote {border-radius: 10px; color: #111;background-color: #CCCCCC; border-left: 4px solid #40CC6A; padding-left: 15px; font-size: 18px; letter-spacing: -1px; font-style: italic; }
 
 blockquote > :last-child { margin-bottom: 0; }
 
@@ -128,12 +128,11 @@ table td { border: 1px solid #121212; }
 
 .post-meta { font-size: 14px; color: #828282; }
 
-/* .post-link { display: block; font-size: 24px; } */
+/** Posts */
 .post-link { display: inline-block; font-size: 20px; }
 
-.post-link-date {display: inline-block; font-size: 18px;}
+.post-link-date {display: inline-block; font-size: 18px; }
 
-/** Posts */
 .post-header { margin-bottom: 30px; }
 
 .post-title { font-size: 42px; letter-spacing: -1px; line-height: 1; }
@@ -154,26 +153,36 @@ table td { border: 1px solid #121212; }
 
 @media screen and (max-width: 800px) { .post-content h4 { font-size: 18px; } }
 
-/* Post Main Image */
+/** Post Main Image */
 .in-post-image{
     width: 500px;
     height: 500px;
     border-radius: 8px;
-    box-shadow: rgba(250, 236, 225, 0.5) 0px 0px 0px 2px;
+    box-shadow: rgba(0, 0, 0, 0.15) 0px 2px 8px;
+    margin-left:auto;
+    margin-right:auto;
+    object-fit: cover;
 }
-/* Post Image */
+.in-post-image-container{
+    text-align: center;
+}
+
+/** Post Image */
 .image{
     border-radius: 8px;
     box-shadow: rgba(0, 0, 0, 0.05) 0px 0px 0px 1px, rgb(209, 213, 219) 0px 0px 0px 1px inset;
 }
-/* Home Image */
+
+/** Home Image */
 .home-image{
     width: 740px;
     height: 416px;
     border-radius: 8px;
     box-shadow: rgba(0, 0, 0, 0.15) 0px 15px 25px, rgba(0, 0, 0, 0.05) 0px 5px 10px;
+    object-fit: cover;
 }
-/* Home latest post */
+
+/** Home latest post */
 .latest-container{
     display: flex;
     flex-wrap: wrap;
@@ -187,12 +196,16 @@ table td { border: 1px solid #121212; }
     padding-bottom: 55px;
     text-align: center;
 }
-/* Home latest post image*/
+
+/** Home latest post image*/
 .title-post{
     width:250px;
     height:250px;
+    border-radius: 10px;
+    box-shadow: rgba(0, 0, 0, 0.15) 0px 2px 8px;
 }
-/* Home latest post title*/
+
+/** Home latest post title*/
 .latest-home-title{
     text-align: center;
     padding-top: 20px;
