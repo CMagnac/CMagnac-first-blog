@@ -26,6 +26,9 @@ One microgram is enough for the carfentanil to start it activity on human.
 
 There are no human application.
 
+See more informations about carfentanil on pubchem and drugbank:
+[bibliographies](#bibliographies).
+
 ## 2. A lethal weapon
 
 Russia had a long history of how to synthetise and use chemicals products.
@@ -40,6 +43,9 @@ Recently Russian police forces used carfentanil and remifentanil to resolve a ho
 Where Chechen rebels stormed a Moscow theater and trapped more than 800 people for 57 hours.
 
 According to criminal experts, Carfentanil is the perfect terrorist weapon.
+
+Get more informations about the Moscow theater hostage crisis.
+[bibliographies](#bibliographies).
 
 ## 3. Illicit usage
 
@@ -62,6 +68,9 @@ Paraguyan pharmacies have long been involved in the black market for medicine. T
 China and India has a bad reputation on the production of fentanyl.
 In China, until recently, fentanyl was largely unregulated. Underground Chinese labs began tweaking the fentanyl molecule, which is easy to alter for anyone with basic knowledge of chemistry and lab tools.
 
+Get more informations about fentanyl sold under the counter and underground labs in China.
+[bibliographies](#bibliographies).
+
 ### 3.1 Facts and figures
 
 #### 3.1.1 Overview Data
@@ -80,9 +89,11 @@ Here are some data from US:
 
 #### 3.1.2 Overdose Death
 
-I have formated a sample of data from the "Overdose death rate", you can find the link in the bibliography list.
+I have formated a sample of data which come from the **National Institutes of Health (NIH)** about the "Overdose death rate".
+You can find the link to this article in the bibliographies section.
+[bibliographies](#bibliographies).
 
-Click [here]({% link download/anyopioid_data.csv %}) to download the file.
+Download the csv file [here]({% link download/anyopioid_data.csv %})
 
 Below is the python code.
 
@@ -130,11 +141,11 @@ This list of prevention has been copied from the tribal epidemiology website.
 
 > ### Bibliographies
 >
-> - Pubchem: [carfentanil profile](https://pubchem.ncbi.nlm.nih.gov/compound/62156).
-> - Drugbank: [carfentanil profile](https://go.drugbank.com/drugs/DB01535).
-> - History: [chemical weapon](https://www.history.com/news/opioid-chemical-weapons-moscow-theater-hostage-crisis).
-> - National Institutes of Health: [report on overdose](https://nida.nih.gov/research-topics/trends-statistics/overdose-death-rates).
-> - From anesthetic to death: [Pubmed article](https://pubmed.ncbi.nlm.nih.gov/33581655/).
-> - Insightcrime website: [insightcrime article](https://insightcrime.org/news/fentanyl-morphine-sold-under-counter-paraguay-pharmacies/).
-> - Science website: [underground labs](https://www.science.org/content/article/underground-labs-china-are-devising-potent-new-opiates-faster-authorities-can-respond).
-> - Tribalepicenters: [about prevention](https://tribalepicenters.org/).
+> 1. [Carfentanil on Pubchem](https://pubchem.ncbi.nlm.nih.gov/compound/62156).
+> 2. [Carfentanil on Drugbank](https://go.drugbank.com/drugs/DB01535).
+> 3. [Moscow theater hostage crisis](https://www.history.com/news/opioid-chemical-weapons-moscow-theater-hostage-crisis).
+> 4. [Overdose Death Rates, NIH](https://nida.nih.gov/research-topics/trends-statistics/overdose-death-rates).
+> 5. [Carfentanil - from an animal anesthetic to a deadly illicit drug](https://pubmed.ncbi.nlm.nih.gov/33581655/).
+> 6. [Fentanyl Sold Under the Counter](https://insightcrime.org/news/fentanyl-morphine-sold-under-counter-paraguay-pharmacies/).
+> 7. [Underground labs in China](https://www.science.org/content/article/underground-labs-china-are-devising-potent-new-opiates-faster-authorities-can-respond).
+> 8. [Tribal Epidemiology Center](https://tribalepicenters.org/).
