@@ -7,16 +7,15 @@ permalink: blog/:categories/:title
 image: pharmacysymbol.jpg
 caption: <a href="https://www.freepik.com/free-vector/hand-drawn-medical-pharmacy-symbol_29900479.htm#page=3&query=pharmacy&position=9&from_view=search&track=sph">Image by Freepik</a>
 ---
-One of the most important skills of a pharmacist is to optimize both back and front office. That will lead to the best flow between material and human. The technical term is the storage management whose will be explain in this post.
+One of the most important skills for a pharmacist is to optimize both the back and front office in order to have the best flow of material and human resources. The technical term for this is storage management, which will be explained in this post.
 
-I began to work as a professional pharmacist almost ten years ago. At this time, there wasn't all the informatic tools and this massive internet information which allow us to increase our productivity. Pharmacy software was far from having all the features that a team relied on nowadays.
+I began working as a professional pharmacist almost ten years ago. At that time, there were not as many informatic tools or as much internet information available, which made it more difficult to increase productivity. The pharmacy software available did not have as many features as teams rely on today.
 
-The North has all the power on economy and technology. They are growing faster than the South, that's a fact.
-Non governmental organization (NGO) and the open-source is one of the solution.
+The North has a lot of power in terms of economy and technology, and it is growing faster than the South. This is a fact. Non-governmental organizations (NGOs) and open-source solutions can be part of the solution to this inequality.
 
 ## 1. Type of software
 
-Some organisation provides different type of software who could be free or not.
+Some organizations provide different types of software that can be free or not.
 
 ### 1.1 LibreOffice
 
@@ -28,14 +27,14 @@ You can find the official website here: [LibreOffice](https://www.libreoffice.or
 
 These are adapted to the management of a pharmacy.
 
-The Management Sciences for Health (MSH) has a list of repositories who are related to electronic pharmaceutical management system.
+The Management Sciences for Health (MSH) has a list of repositories related to electronic pharmaceutical management systems.
 
 Here is the link to their repository: [MSHGithub](https://github.com/MSH).
 
 Here is the link to the official website: [MSHWebsite](https://msh.org/).
 
-Other are more specific to HIV patients management.
-Santia is one of them. Here is the link of the website: [SantiaWebsite](https://www.santia.org/).
+Others are more specific for HIV patient management.
+Santia is one of them. Here is the link to the website: [SantiaWebsite](https://www.santia.org/).
 
 ### 1.3 GnuHealth
 
@@ -43,47 +42,49 @@ GnuHealth is a free health and hospital information system.
 
 You can find the official website here : [GnuHealthWebsite](https://www.gnuhealth.org/).
 
-The hospital management information system is build with Python and work with Tryton. Tryton is a three-tier computer application plateform on top of which is built an Enterprise Resource Planning (ERP).
+The hospital management information system is built with Python and works with Tryton. Tryton is a three-tier computer application platform on top of which an Enterprise Resource Planning (ERP) is built.
 
 You can find the official website here : [TrytonWebsite](http://www.tryton.org/).
 
-Along with the necessity of installing a software management, there are different tools to manage the stock.
+In addition to the necessity of installing a software management system, there are different tools available for managing stock.
 
 ## 2. Tools for storage management
 
 <img src="{{ site.image_path }}/storage_tables.png" class="image">
 
+You can click here [cmagnac](https://cmagnac.github.io/tables-template/) to see the tables on a webpage.
+
 ### 2.1 Product sheet
 
-This is the main tool to manage storage.
+This is the main tool for managing storage.
 
-Goals of product sheet are:
+The goals of product sheet are:
 
 + order preparation
 + quantification of loss
-+ following drugs consumption
++ tracking drugs consumption
 
-A sheet for each drugs and quantities are noted in number of unities.
-Related to the context, discuss on using a paper-based approach or an electronic patient monitoring system.
+A sheet for each drug and the corresponding quantities in units is noted.
+In the context, discuss the use of a paper-based approach or an electronic patient monitoring system.
 
 ### 2.2 Dispense register
 
-Register all dispense prescriptions.
-Using a specific register for pharmacological classes such as HIV treatment.
+Record all dispensed prescriptions.
+Use a specific register for pharmacological classes such as HIV treatment.
 Make a daily overview of the dispensation.
 
 ### 2.3 Inventory sheet
 
-Make the achievement easier.
+Make achievement easier.
 Gain a global vision of the stock.
 
 ## 3. Physical inventory of storage
 
-Validate and correct stocks by using the inventory sheet.
+Validate and correct stock by using the inventory sheet.
 Remove outdated drugs.
-Manage the team to obtain a better storage management.
-Ideal achievment: 1 inventory per month.
-Minima achievment: twice a year.
-There mustn't be any delivery during the inventory. It must be realize at once.
-The stock is consider right when the inventory deviation doesn't exceed 5%.
-inventory deviation = (physical stock - theoritical stock) x 100 / physical stock
+Manage the team to improve storage management.
+Ideal achievement: 1 inventory per month.
+Minimum achievement: twice a year.
+There should not be any deliveries during the inventory, which should be completed all at once.
+The stock is considered accurate when the inventory deviation does not exceed 5%.
+Inventory deviation = (physical stock - theoretical stock) x 100 / physical stock.
