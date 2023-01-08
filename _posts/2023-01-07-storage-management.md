@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Storage management
-date: 2023-01-05 10:00:00 +0200
+date: 2023-01-07 10:00:00 +0200
 categories: pharmacy
 permalink: blog/:categories/:title
 image: pharmacysymbol.jpg
@@ -87,4 +87,8 @@ Ideal achievement: 1 inventory per month.
 Minimum achievement: twice a year.
 There should not be any deliveries during the inventory, which should be completed all at once.
 The stock is considered accurate when the inventory deviation does not exceed 5%.
-Inventory deviation = (physical stock - theoretical stock) x 100 / physical stock.
+
+```python
+def inventory_deviation(physical_stock, theoretical_stock):
+    return (physical_stock - theoretical_stock) / physical_stock
+```
