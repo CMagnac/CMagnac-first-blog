@@ -97,13 +97,13 @@ In a global view, the prognosis depends on which mushroom has been ingested.
 
 > ### Bibliographies
 >
-> + article about toxicology of orellanine on pubchem: [toxicology of orellanine](https://pubmed.ncbi.nlm.nih.gov/26553321/).
-> + article about groups of poisonous mushrooms: [semantic scholar](https://www.semanticscholar.org/paper/Six-groups-of-poisonous-mushrooms%3A-classified-to-Yu/eb2260efbe5e09680a708e20ee8be508d04e29ec).
-> + psilocybin on pubchem: [psilocybin](https://pubchem.ncbi.nlm.nih.gov/compound/10624).
-> + orellanine on pubchem: [orellanine](https://pubchem.ncbi.nlm.nih.gov/compound/89579).
-> + tricholoma equestre study on springer: [tricholoma equestre](https://link.springer.com/article/10.1007/s00217-018-3134-0).
-> + CNN architectures on medium: [cnn on medium](https://medium.com/analytics-vidhya/cnns-architectures-lenet-alexnet-vgg-googlenet-resnet-and-more-666091488df5).
-> + Silibinin on pubchem: [silibinin](https://pubchem.ncbi.nlm.nih.gov/compound/31553).
-> + Mushroom toxicity: [national library of medecine](https://www.ncbi.nlm.nih.gov/books/NBK537111/).
-> + Therapeutic potential of psilocybin: [national library of medecine](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8156539/).
-> + Article on edible mushroom from Multidisciplinary Digital Publishing Institute (MDPI): [MDPI article](https://www.mdpi.com/2071-1050/14/9/4941).
+> 1. [Human and experimental toxicology of orellanine](https://pubmed.ncbi.nlm.nih.gov/26553321/).
+> 2. [Six groups of poisonous mushrooms](https://www.semanticscholar.org/paper/Six-groups-of-poisonous-mushrooms%3A-classified-to-Yu/eb2260efbe5e09680a708e20ee8be508d04e29ec).
+> 3. [Psilocybine on Pubchem](https://pubchem.ncbi.nlm.nih.gov/compound/10624).
+> 4. [Orellanine on Pubchem](https://pubchem.ncbi.nlm.nih.gov/compound/89579).
+> 5. [Study of biological activity of Tricholoma equestre](https://link.springer.com/article/10.1007/s00217-018-3134-0).
+> 6. [CNN Architectures](https://medium.com/analytics-vidhya/cnns-architectures-lenet-alexnet-vgg-googlenet-resnet-and-more-666091488df5).
+> 7. [Silibinin on Pubchem](https://pubchem.ncbi.nlm.nih.gov/compound/31553).
+> 8. [Mushroom Toxicity](https://www.ncbi.nlm.nih.gov/books/NBK537111/).
+> 9. [The Therapeutic Potential of Psilocybin](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8156539/).
+> 10. [Edible Mushrooms for Sustainable and Healthy Human Food](https://www.mdpi.com/2071-1050/14/9/4941).

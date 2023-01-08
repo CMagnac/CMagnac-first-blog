@@ -45,6 +45,6 @@ Airfinity, a health analysis company based in London, has already listed a hundr
 
 > ### Bibliographies
 >
-> + BBC article about china and his covid counting method: [bbc article](https://www.bbc.com/news/world-asia-64044204).
-> + WHO official dashboard: [who dashboard](https://covid19.who.int/).
-> + Nature article about new Covid-19 vaccine: [nature article](https://www.nature.com/articles/d41586-022-02824-3).
+> 1. [China Covid, new counting method](https://www.bbc.com/news/world-asia-64044204).
+> 2. [WHO Covid dashboard](https://covid19.who.int/).
+> 3. [How nasal-spray vaccines could change the pandemic](https://www.nature.com/articles/d41586-022-02824-3).
