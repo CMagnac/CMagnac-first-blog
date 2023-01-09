@@ -67,7 +67,7 @@ pip install -r requirements.txt
 ```
 
 More informations on virtualenv ?
-Rigth here: [virtualenv at python.org](http://docs.python-guide.org/en/latest/dev/virtualenvs/).
+Right here: [virtualenv at python.org](http://docs.python-guide.org/en/latest/dev/virtualenvs/).
 
 ## 2. The code
 
