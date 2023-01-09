@@ -6,36 +6,40 @@ categories: programming
 permalink: blog/:categories/:title
 image: python_logo.png
 ---
-The idea of writing this post came up with a question: How to gather informations about HSK1 using python ?
+The idea for this post came from a question: How can I gather information about HSK1 using Python?
 
-HSK stands for Hanyu Shuiping Kaoshi (汉语水平考试), it's an exam that demonstrates your level of Mandarin.
-The exam is divided into two parts: the listening comprehension and the reading comprehension.
+HSK stands for **Hanyu Shuiping Kaoshi** (汉语水平考试), it's an exam that measures your level of Mandarin.
 
-Learning and speaking chinese is a long path because you will have to think in "chinese". There are two hundred keys to learn before understanding a bit of how sinographs are built. Besides having a good graphical memory, you also need to have a good ton memory.
+The exam has two parts: listening comprehension and reading comprehension.
 
-Going back to the drawing board and find your own method.  
+Learning and speaking Chinese is a long process because you have to think in "Chinese." There are 200 characters to learn before you can understand how Chinese characters are constructed.
 
-Pinyins are the phonetic transcription of chinese characters.
-One characters can be pronounced in four differents ways.
+In addition to having a good visual memory, you also need to have a good memory for tones.
 
-Being active is the path to sucess, to achieve it you must constantly test your knowledge.
+It's important to go back to the basics and find your own method.
+Pinyin is the phonetic transcription of Chinese characters.
+One character can be pronounced in four different ways.
+
+Being active is the key to success, and to achieve it you must constantly test your knowledge.
 
 ## 1. Set up the environment
 
-I will use Python version 3.10.6 and two famous python libraries for webscraping : requests and beautifulsoup4.
+I will use Python version 3.10.6 and two popular Python libraries for web scraping: requests and beautifulsoup4.
 
-Our target will be a html table from a website which refers to the HSK level 1 vocabularies list (unofficial).
+Our target will be an HTML table from a website that lists the HSK level 1 vocabulary (unofficial).
 
 ### 1.1 Create a virtual environment
 
-Learning how to create and work with virtual environment is a good habit to take.
+It's good practice to learn how to create and work with a virtual environment.
 
 Setup the environment:
 
-    $ pip install virtualenv                # Install virtualenv using python 
-    $ cd my_folder                          # Wherever you want to put the virtual enviroment folder
-    $ virtualenv -p /usr/bin/python3 venv   # Create the environment, with the Python 3.x interpreter
-    $ source venv/bin/activate              # Active the environment
+```bash
+pip install virtualenv
+cd my_folder
+virtualenv -p /usr/bin/python3 venv
+source venv/bin/activate
+```
 
 ### 1.2 Install the libraries
 
@@ -47,16 +51,20 @@ If you want more informations on requests, click here: [requests at pypi](https:
 
 If you want more informations on beautifulsoup, click here: [beautifulsoup at pypi](https://pypi.org/project/beautifulsoup4/).
 
-A good practice is to create a requirements.txt which contains the packages.
+A good practice is to create a requirements.txt file that lists the packages you need.
 
 requirements.txt file:
 
-    beautifulsoup4==4.11.1
-    requests==2.28.1
+```text
+beautifulsoup4==4.11.1
+requests==2.28.1
+```
 
 Now install the packages:
 
-    $ pip install -r requirements.txt
+```bash
+pip install -r requirements.txt
+```
 
 More informations on virtualenv ?
 Rigth here: [virtualenv at python.org](http://docs.python-guide.org/en/latest/dev/virtualenvs/).
@@ -101,7 +109,7 @@ if __name__ == "__main__":
 
 ## 3. Run the code
 
-From the terminal and in your working folder, tape this.
+From the terminal and in your working folder, type this.
 
 ```bash
 python main.py
