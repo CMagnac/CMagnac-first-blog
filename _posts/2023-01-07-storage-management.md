@@ -2,8 +2,7 @@
 layout: post
 title: Storage management
 date: 2023-01-07 10:00:00 +0200
-categories: pharmacy
-permalink: blog/:categories/:title
+permalink: blog/:title
 image: pharmacysymbol.jpg
 caption: <a href="https://www.freepik.com/free-vector/hand-drawn-medical-pharmacy-symbol_29900479.htm#page=3&query=pharmacy&position=9&from_view=search&track=sph">Image by Freepik</a>
 ---

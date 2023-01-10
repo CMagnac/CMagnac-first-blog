@@ -2,8 +2,7 @@
 layout: post
 title: Data scraping in Python
 date: 2022-11-06 10:00:09 +0200
-categories: programming
-permalink: blog/:categories/:title
+permalink: blog/:title
 image: python_logo.png
 ---
 This post is about a python script where you will learn to scrap informations. Data will be store into json dictionaries.

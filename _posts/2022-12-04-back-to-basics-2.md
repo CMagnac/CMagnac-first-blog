@@ -2,8 +2,7 @@
 layout: post
 title: Python literals
 date: 2022-12-04 10:00:09 +0200
-categories: programming
-permalink: blog/:categories/:title
+permalink: blog/:title
 image: privateinvestocat.jpg
 caption: Image by jeekang on GitHub
 ---

@@ -2,8 +2,7 @@
 layout: post
 title: "Lethal association: HIV drugs with cathinone"
 date: 2022-12-24 10:00:09 +0200
-categories: infectiology
-permalink: blog/:categories/:title
+permalink: blog/:title
 image: deathcross.jpg
 caption: <a href="https://www.freepik.com/free-vector/vintage-chicano-cross-shaped-tattoo-concept_8136711.htm#page=2&query=angel%20of%20death&position=13&from_view=search&track=ais">Image by dgim-studio</a>
 ---

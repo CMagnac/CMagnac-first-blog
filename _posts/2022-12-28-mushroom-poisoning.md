@@ -2,8 +2,7 @@
 layout: post
 title: Poisonous mushrooms 
 date: 2022-12-28 10:00:09 +0200
-categories: toxicology
-permalink: blog/:categories/:title
+permalink: blog/:title
 image: toxicology.jpg
 caption: <a href="https://www.freepik.com/free-vector/vintage-monochrome-gorilla-head_7987671.htm#query=toxic&from_query=toxicology&position=46&from_view=search&track=sph">Image by dgim-studio</a>
 ---
@@ -41,7 +40,7 @@ As far as I remember, my university professor taught us that the path to the rec
 
 Research is focusing on deeplearning algorithm to help people to indentify toxic mushrooms.
 There is an interesting article about it.
-You can download the pdf article here: [downloadpdf]({% link download/cnn_classification.pdf %}).
+You can download the pdf article here: [cnn_classification.pdf]({% link download/cnn_classification.pdf %}).
 
 Research is using deep convolutional neural network (CNN). CNN are a multilayer of neural that recognizes visual patterns directly from pixel images.
 

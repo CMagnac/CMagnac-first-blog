@@ -2,8 +2,7 @@
 layout: post
 title: Carfentanil drug facts
 date: 2022-12-16 10:00:09 +0200
-categories: toxicology
-permalink: blog/:categories/:title
+permalink: blog/:title
 image: carfentanil.png
 caption: <a href="https://pubchem.ncbi.nlm.nih.gov/compound/62156">Carfentanil by pubchem</a>
 ---
@@ -27,7 +26,7 @@ One microgram is enough for the carfentanil to start it activity on human.
 There are no human application.
 
 See more informations about carfentanil on pubchem and drugbank:
-[bibliographies](#bibliographies).
+[[1-2]](#bibliographies).
 
 ## 2. A lethal weapon
 
@@ -45,7 +44,7 @@ Where Chechen rebels stormed a Moscow theater and trapped more than 800 people f
 According to criminal experts, Carfentanil is the perfect terrorist weapon.
 
 Get more informations about the Moscow theater hostage crisis.
-[bibliographies](#bibliographies).
+[[3]](#bibliographies).
 
 ## 3. Illicit usage
 
@@ -69,7 +68,7 @@ China and India has a bad reputation on the production of fentanyl.
 In China, until recently, fentanyl was largely unregulated. Underground Chinese labs began tweaking the fentanyl molecule, which is easy to alter for anyone with basic knowledge of chemistry and lab tools.
 
 Get more informations about fentanyl sold under the counter and underground labs in China.
-[bibliographies](#bibliographies).
+[[4-5]](#bibliographies).
 
 ### 3.1 Facts and figures
 
@@ -91,9 +90,9 @@ Here are some data from US:
 
 I have formated a sample of data which come from the **National Institutes of Health (NIH)** about the "Overdose death rate".
 You can find the link to this article in the bibliographies section.
-[bibliographies](#bibliographies).
+[[6]](#bibliographies).
 
-Download the csv file [here]({% link download/anyopioid_data.csv %})
+Download the csv file [anyopioid_data.csv]({% link download/anyopioid_data.csv %})
 
 Below is the python code.
 
@@ -144,8 +143,8 @@ This list of prevention has been copied from the tribal epidemiology website.
 > 1. [Carfentanil on Pubchem](https://pubchem.ncbi.nlm.nih.gov/compound/62156).
 > 2. [Carfentanil on Drugbank](https://go.drugbank.com/drugs/DB01535).
 > 3. [Moscow theater hostage crisis](https://www.history.com/news/opioid-chemical-weapons-moscow-theater-hostage-crisis).
-> 4. [Overdose Death Rates, NIH](https://nida.nih.gov/research-topics/trends-statistics/overdose-death-rates).
-> 5. [Carfentanil - from an animal anesthetic to a deadly illicit drug](https://pubmed.ncbi.nlm.nih.gov/33581655/).
-> 6. [Fentanyl Sold Under the Counter](https://insightcrime.org/news/fentanyl-morphine-sold-under-counter-paraguay-pharmacies/).
-> 7. [Underground labs in China](https://www.science.org/content/article/underground-labs-china-are-devising-potent-new-opiates-faster-authorities-can-respond).
-> 8. [Tribal Epidemiology Center](https://tribalepicenters.org/).
+> 4. [Fentanyl Sold Under the Counter](https://insightcrime.org/news/fentanyl-morphine-sold-under-counter-paraguay-pharmacies/).
+> 5. [Underground labs in China](https://www.science.org/content/article/underground-labs-china-are-devising-potent-new-opiates-faster-authorities-can-respond).
+> 6. [Overdose Death Rates, NIH](https://nida.nih.gov/research-topics/trends-statistics/overdose-death-rates).
+> 7. [Tribal Epidemiology Center](https://tribalepicenters.org/).
+> 8. [Carfentanil - from an animal anesthetic to a deadly illicit drug](https://pubmed.ncbi.nlm.nih.gov/33581655/).

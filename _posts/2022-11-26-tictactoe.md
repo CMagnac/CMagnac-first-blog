@@ -2,8 +2,7 @@
 layout: post
 title: Coding TicTacToe in Python
 date: 2022-11-26 10:00:09 +0200
-categories: programming
-permalink: blog/:categories/:title
+permalink: blog/:title
 image: python_logo.png
 ---
 Last week, I was wondering what kind of post I will write for today.

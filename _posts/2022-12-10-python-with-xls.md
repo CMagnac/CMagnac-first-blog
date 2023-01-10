@@ -2,8 +2,7 @@
 layout: post
 title: Python script, Xls to html and sql
 date: 2022-12-10 10:00:09 +0200
-categories: programming
-permalink: blog/:categories/:title
+permalink: blog/:title
 image: python_logo.png
 ---
 

@@ -2,8 +2,7 @@
 layout: post
 title: Coding a web-scraper in Python
 date: 2022-10-16 10:00:09 +0200
-categories: programming
-permalink: blog/:categories/:title
+permalink: blog/:title
 image: python_logo.png
 ---
 The idea for this post came from a question: How can I gather information about HSK1 using Python?

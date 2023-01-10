@@ -2,8 +2,7 @@
 layout: post
 title: The day before 2023
 date: 2022-12-31 23:55:00 +0200
-categories: infectiology
-permalink: blog/:categories/:title
+permalink: blog/:title
 image: coronavirus.jpg
 caption: <a href="https://www.freepik.com/free-vector/earth-wears-mask-prevent-spread-virus-planet-earth-with-face-mask-protect-fight-against-corona-virus-hand-drawn-vector-illustration_25658521.htm#page=3&query=infection&position=10&from_view=search&track=sph">Image by WangXiNa</a>
 ---
