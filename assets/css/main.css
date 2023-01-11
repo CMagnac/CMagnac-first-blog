@@ -38,9 +38,17 @@ a:hover { color:  #C9633A; text-decoration: none; }
 .social-media-list a:hover .username { text-decoration: underline; }
 
 /** Blockquotes */
-blockquote { border-radius: 10px; color: #111; background-color: #CCCCCC; border-left: 4px solid #40CC6A; padding-left: 15px; font-size: 18px; letter-spacing: -1px; font-style: italic; }
+blockquote {
+    box-shadow: rgba(0, 0, 0, 0.09) 0px 3px 12px;
+    border: #88CC9E solid 1px;
+    border-radius: 10px; color: #111;
+    background-color: #DBDBDB; 
+    border-left: 4px solid #40CC6A; padding-left: 15px; font-size: 18px; letter-spacing: -1px; font-style: italic;
+}
 
 blockquote > :last-child { margin-bottom: 0; }
+
+
 
 /** Code formatting */
 pre, code { font-size: 15px; border: 1px solid #292929; border-radius: 8px; background-color: #FFFFFF; }
@@ -175,7 +183,7 @@ table td { border: 1px solid #121212; }
 /** Home latest post title*/
 .latest-home-title { text-align: center; padding-top: 20px; padding-bottom: 10px; }
 
-/*µ Home blockquote */
+/** Home blockquote */
 .home-blockquote{
     font-size: 15px;
 }
