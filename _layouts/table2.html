@@ -1,0 +1,39 @@
+---
+layout: page
+---
+<div style="overflow-x:auto;">
+
+<table class="table-page">
+    <thead>
+    
+        <tr class="header">
+            <th>Active substance</th>
+            <th>Brand name</th>
+            <th>Acronym</th>
+            <th>Class</th>
+            <th>Class acronym</th>
+            <th>Indication</th>
+            <th>Inhibitory action</th>
+            <th>Inhibitory action acronym</th>
+            <th>Resistance</th>
+            <th>Side effects</th>
+        </tr>
+    </thead>
+    {%- for values in site.data.arv -%}
+    <tbody>
+        <tr>
+          <td>{{ values.active_substance }}</td>
+          <td>{{ values.brand_name }}</td>
+          <td>{{ values.acronym }}</td>
+          <td>{{ values.class }}</td>
+          <td>{{ values.class_acronym }}</td>
+          <td>{{ values.indication }}</td>
+          <td>{{ values.inhibitory_action }}</td>
+          <td>{{ values.inhibitory_action_acronym }}</td>
+          <td>{{ values.resistance }}</td>
+          <td>{{ values.side_effects }}</td>
+        </tr>
+    {% endfor %}
+    </tbody>
+</table>
+</div>

@@ -83,6 +83,12 @@ table th { background-color: #f0f0f0; border: 1px solid #121212; border-bottom-c
 
 table td { border: 1px solid #121212; }
 
+/** Table page */
+
+.table-page {
+    background-color: #DBDBDB;
+}
+
 /** Site header */
 .site-header { border-top: 5px solid #424242; border-bottom: 1px solid #121212; min-height: 55.95px; position: relative; }
 
