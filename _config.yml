@@ -6,4 +6,7 @@ image_path: /assets/images
 theme: minima
 styles:
   - /assets/main.css
-include: ["_tables"]
+collections:
+  tables:
+    output: true
+    permalink: /table/:name
