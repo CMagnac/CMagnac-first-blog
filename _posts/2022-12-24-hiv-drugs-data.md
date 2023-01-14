@@ -26,6 +26,8 @@ Firstly, an antiviral therapy should be introduced early in the evolution of the
 
 Secondly, drug-resistant virus strains could be emerging. A sensitivity test is necessary. If needed, an alternative treatment will be initiated with another mechanism of action.
 
+You can find more information on "manuel de poche de microbiologie médicale" [[1]](#references).
+
 ## 2. Antiviral drugs
 
 There are six majors therapeutic classes for HIV treatments.
@@ -41,11 +43,9 @@ There are six majors therapeutic classes for HIV treatments.
 
 Data are extract from a pdf document.
 
-You can find it on the Joint United Nations Programme on HIV and AIDS (UNAIDS) official website.
-The link is at the end of the post in the bibliographies section.
-(Data Chart).
+You can find it on the Joint United Nations Programme on HIV and AIDS (UNAIDS) official website [[2]](#references)
 
-Or you can download the csv document: [downloadcsv]({% link download/global_hiv_data.csv %}).
+Or you can download the csv document: [global_hiv_data.csv]({% link download/global_hiv_data.csv %}).
 
 ```python
 %matplotlib inline
@@ -78,7 +78,7 @@ This trend is almost always deal with higher income countries.
 
 ### 4.1 Khat
 
-Latin name of Khat is *Catha edulis*. Khat is a shrub and *sempervirens* (always green). Khat belongs to the Celastraceae family. Khat grows in temperate warm and tropical geographical areas.
+Latin name of Khat is *Catha edulis*. Khat is a shrub and *sempervirens* (always green). Khat belongs to the Celastraceae family. Khat grows in temperate warm and tropical geographical areas. [[3]](#references)
 
 There are an estimation of 20 millions of people who are daily user of fresh leafs for the soft drug that it contains.
 
@@ -89,7 +89,7 @@ As any addiction, the path of redemption is long, harsh and full of despairs.
 
 ### 4.2 Risks
 
-There is an increasing risk of using *bath salts* cathinone and being or not infected with HIV.
+There is an increasing risk of using *bath salts* cathinone and being or not infected with HIV [[4]](#references)-[[5]](#references).
 
 Synthetic cathinone are psychoactive substances who are use during sex parties, especially by men who have sex with men (MSM). It increases sexual peformance and are entactogen. Needless to say that in this atmosphere, alertness is a fact.
 
@@ -101,21 +101,18 @@ Therefore, condoms are less use and the injection materials or the sniffing tube
 
 Some non-governmental organizations (NGO) like **Sidaction** or **Aides** are working hard on prevention campaigns to improve awaraness.
 
+You can refer to the official [sidaction.org](https://www.sidaction.org/) and [aides.org](https://www.aides.org/).
+
 ## 5. Cured of HIV
 
 The bbc reports an interesting article about the first women to be cure from HIV. In the same way as Timothy Ray Brown in 2007, she has received a stem cell transplant from someone with natural resistance to HIV.
 
-You can find this article at the end of the bibliographies note.
+You can refer to this [article](https://www.bbc.com/news/health-60394306).
 
-> ### Bibliographies
+> ### References
 >
 > 1. [Manuel de poche de microbiologie médicale](https://www.lavoisier.fr/livre/sciences-de-la-vie/atlas-de-poche-de-microbiologie-medicale-2-ed/kayser/descriptif-9782257206367).
 > 2. [Global HIV & AIDS statistics](https://www.unaids.org/en/resources/fact-sheet).
 > 3. [Khat](https://leschroniquesduvegetal.wordpress.com/2020/05/04/le-khat-un-arbuste-africain-stupefiant/).
-> 4. [Khat drug profile](https://www.emcdda.europa.eu/publications/drug-profiles/khat_en).
-> 5. [Cathinone on Pubchem](https://pubchem.ncbi.nlm.nih.gov/compound/62258).
-> 6. [sidaction](https://www.sidaction.org/), [aides](https://www.aides.org/).
-> 7. [Psychostimulant Abuse and HIV Infection](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4582446/).
-> 8. [A Recent Human Immunodeficiency Virus Outbreak](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7314588/).
-> 9. [Cathinone Use Disorder in the Context of Slam Practice](https://www.frontiersin.org/articles/10.3389/fpsyt.2020.00705/full).
-> 10. [First woman in world believed to be cured of HIV](https://www.bbc.com/news/health-60394306).
+> 4. [A Recent Human Immunodeficiency Virus Outbreak](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7314588/).
+> 5. [Psychostimulant Abuse and HIV Infection](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4582446/).

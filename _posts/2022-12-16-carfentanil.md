@@ -26,7 +26,7 @@ One microgram is enough for the carfentanil to start it activity on human.
 There are no human application.
 
 See more informations about carfentanil on pubchem and drugbank:
-[[1-2]](#bibliographies).
+You can refer to [carfentanil on Pubchem](https://pubchem.ncbi.nlm.nih.gov/compound/62156) and [carfentanil on Drugbank](https://go.drugbank.com/drugs/DB01535).
 
 ## 2. A lethal weapon
 
@@ -43,8 +43,7 @@ Where Chechen rebels stormed a Moscow theater and trapped more than 800 people f
 
 According to criminal experts, Carfentanil is the perfect terrorist weapon.
 
-Get more informations about the Moscow theater hostage crisis.
-[[3]](#bibliographies).
+Get more informations about the Moscow theater hostage crisis [[1]](#references).
 
 ## 3. Illicit usage
 
@@ -62,13 +61,10 @@ Otherwise, the trafficking of opioids is alarming.
 
 Here are just few samples of what we know so far.
 
-Paraguyan pharmacies have long been involved in the black market for medicine. There was a robust black market for medicines sold in pharmacies and that regulators agencies had no control over the situation.
+Paraguyan pharmacies [[2]](#references) have long been involved in the black market for medicine. There was a robust black market for medicines sold in pharmacies and that regulators agencies had no control over the situation.
 
 China and India has a bad reputation on the production of fentanyl.
-In China, until recently, fentanyl was largely unregulated. Underground Chinese labs began tweaking the fentanyl molecule, which is easy to alter for anyone with basic knowledge of chemistry and lab tools.
-
-Get more informations about fentanyl sold under the counter and underground labs in China.
-[[4-5]](#bibliographies).
+In China, until recently, fentanyl was largely unregulated. Underground Chinese labs [[3]](#references) began tweaking the fentanyl molecule, which is easy to alter for anyone with basic knowledge of chemistry and lab tools.
 
 ### 3.1 Facts and figures
 
@@ -88,9 +84,7 @@ Here are some data from US:
 
 #### 3.1.2 Overdose Death
 
-I have formated a sample of data which come from the **National Institutes of Health (NIH)** about the "Overdose death rate".
-You can find the link to this article in the bibliographies section.
-[[6]](#bibliographies).
+I have formated a sample of data which come from the **National Institutes of Health (NIH)** about the "Overdose death rate" [[4]](#references).
 
 Download the csv file [anyopioid_data.csv]({% link download/anyopioid_data.csv %})
 
@@ -129,6 +123,7 @@ Most important tools for health care professional are the prevention.
 ## 4. Prevention
 
 This list of prevention has been copied from the tribal epidemiology website.
+You can refer to the [Tribal epidemiology center](https://tribalepicenters.org/).
 
 + talk to your kids
 + keep drugs in a safe storage
@@ -138,13 +133,9 @@ This list of prevention has been copied from the tribal epidemiology website.
 + ask for help
 + know what to do in an overdose emergency situation
 
-> ### Bibliographies
+> ### References
 >
-> 1. [Carfentanil on Pubchem](https://pubchem.ncbi.nlm.nih.gov/compound/62156).
-> 2. [Carfentanil on Drugbank](https://go.drugbank.com/drugs/DB01535).
-> 3. [Moscow theater hostage crisis](https://www.history.com/news/opioid-chemical-weapons-moscow-theater-hostage-crisis).
-> 4. [Fentanyl Sold Under the Counter](https://insightcrime.org/news/fentanyl-morphine-sold-under-counter-paraguay-pharmacies/).
-> 5. [Underground labs in China](https://www.science.org/content/article/underground-labs-china-are-devising-potent-new-opiates-faster-authorities-can-respond).
-> 6. [Overdose Death Rates, NIH](https://nida.nih.gov/research-topics/trends-statistics/overdose-death-rates).
-> 7. [Tribal Epidemiology Center](https://tribalepicenters.org/).
-> 8. [Carfentanil - from an animal anesthetic to a deadly illicit drug](https://pubmed.ncbi.nlm.nih.gov/33581655/).
+> 1. [Moscow theater hostage crisis](https://www.history.com/news/opioid-chemical-weapons-moscow-theater-hostage-crisis).
+> 2. [Paraguay pharmacies](https://insightcrime.org/news/fentanyl-morphine-sold-under-counter-paraguay-pharmacies/).
+> 3. [Underground labs in China](https://www.science.org/content/article/underground-labs-china-are-devising-potent-new-opiates-faster-authorities-can-respond).
+> 4. [Overdose Death Rates, NIH](https://nida.nih.gov/research-topics/trends-statistics/overdose-death-rates).

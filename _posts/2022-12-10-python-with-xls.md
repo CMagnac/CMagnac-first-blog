@@ -100,6 +100,4 @@ for row in c.fetchall():
     print(row)
 ```
 
-## 4. Conclusion
-
 You can find all the code on my GitHub account [CMagnac](https://github.com/CMagnac/Extract-and-Load-Script).

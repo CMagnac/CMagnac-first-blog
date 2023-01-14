@@ -42,7 +42,7 @@ The immunity acquired after an intramuscular injection is less effective at the 
 
 Airfinity, a health analysis company based in London, has already listed a hundred mucous Covid-19 vaccines under development around the world. China, India, and Iran are among the countries that are in Phase 3 studies.
 
-> ### Bibliographies
+> ### References
 >
 > 1. [China Covid, new counting method](https://www.bbc.com/news/world-asia-64044204).
 > 2. [WHO Covid dashboard](https://covid19.who.int/).
