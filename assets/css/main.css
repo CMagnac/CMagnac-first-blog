@@ -35,7 +35,7 @@ a:hover { color:  #C9633A; text-decoration: none; }
 
 .social-media-list a:hover { text-decoration: none; }
 
-.social-media-list a:hover .username { text-decoration: underline; }
+.social-media-list a:hover .username { text-decoration: none; }
 
 /** Blockquotes */
 blockquote {
@@ -195,6 +195,14 @@ table td { border: 1px solid #121212; }
 }
 .home-blockquote h3{
     color: #FF0000;
+}
+
+/** Home mail icon */
+.la-envelope-square{
+    color: #828282;
+    width: 21px;
+    height: 16px;
+    font-size: 20px;
 }
 
 /** Post Common Stem */
